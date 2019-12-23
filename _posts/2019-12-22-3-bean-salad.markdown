@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "3-bean salad"
+date:   2019-12-22 12:02:31 +0000
+categories: salads
+---
+
+## Clipping from the Boston Glob3

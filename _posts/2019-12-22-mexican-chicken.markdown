@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Mexican chicken"
+date:   2019-12-22 12:00:11 +0000
+categories: poultry
+---
+
+## From Mom??
+### Ingredients
+* 3 pounds favorite chicken parts
+* 1 green pepper, chopped
+* 1 onion, chopped
+* 3 large cloves garlic, crushed
+* 16-ounce can of tomato sauce
+* 2 teaspoons chilli powder
+* 1 teaspoon salt
+* 1/4 teaspoon tabasco
+* 2 whole cloves
+* 1/2 ounce unsweetened chocolate
+
+Brown chicken in oil. Place in baking dish. In the same oil, cook pepper, onion, and garlic. Combine with remaining ingredients. Heat until chocolate is melted. Pour over chicken. Cover and cook on a low simer, about 45 minutes, or until done. Serve with cooked rice. Makes 6 portions.
