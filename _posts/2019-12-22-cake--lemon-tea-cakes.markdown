@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Lemon tea cakes"
+date:   2019-12-22 12:01:28 +0000
+categories: cake
+---
+
+## From Grandma ??
+### Ingredients
+* 1 1/2 teaspoon vinegar
+* 1/2 cup milk
+* 1/2 cup butter
+* 3/4 cup sugar
+* 1 egg
+* 1 teaspoon shredded lemon peel
+* 1 3/4 cup sifted all-purpose flour
+* 1 teaspoon baking powder
+* 1/4 teaspoon baking soda
+* 1/4 teaspoon salt
+
+
+Stir vinegar into milk. Cream butter and 3/4 cup sugar until fluffy. Add eggs and lemon peel; beat well. Sift together dry ingredients and add to butter mixture, alternatively with milk, beating until smooth after each addition. Drop from a teaspon 2 inches apart on an ungreased cookie sheet. Bake at 350F 12-14 minutes. Brush at once with a lemon glaze.
+### Lemon glaze
+
+Mix 3/4 cup sugar (Emma: Confectionary sugar?) with 1/4 cup lemon juice.

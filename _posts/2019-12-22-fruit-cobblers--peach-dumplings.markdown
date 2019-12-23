@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Peach dumplings"
+date:   2019-12-22 12:02:44 +0000
+categories: fruit-cobblers
+---
+
+## From Grandma
+### Ingredients
+* 3 cups sliced fresh peaches
+* 2 cups water
+* 1 cup sugar
+* 2 tablespoons lemon juice
+* 1 cup pancake mix
+* 1/4 cup brown sugar
+* 1/4 tablespoon nutmeg
+* 1/2 cup milk
+* 2 tablespoons melted or liquid shortening
+
+
+Combine peaches, water, sugar an lemon juice in a 3-quart pan. Bring to a boil. Combine remaining ingredients and drop batter from a tablespoon on top of the peaches mixture. Reduce heat, cover tightly, and cook for 15 minutes without lifting the cover.

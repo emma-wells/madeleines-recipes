@@ -2,454 +2,451 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b4bb873-588a-4da9-81d9-8d47f2f6e392" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-12-05-welcome-to-jekyll 2.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-12-05-welcome-to-jekyll 2.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Bacon tomato cups/Bacon tomato cups.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Bean dip/Bean dip.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Bread-cheese squares/Bread-cheese squares.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Cheesettes/Cheesettes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Chex party mix microwave recipe/Chex party mix microwave recipe.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Chex party mix/Chex party mix.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Cocktail meatballs/Cocktail meatballs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Corn relish/Corn relish.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Crab casserole/Crab casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Cranberry mold/Cranberry mold.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Creamy spinach dip/Creamy spinach dip.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Eggplant antipasto/Eggplant antipasto.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Flavored crackers/Flavored crackers.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Green tomato pickles/Green tomato pickles.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Guacamole/Guacamole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Herb curry dip/Herb curry dip.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Honey and mustard salad dressing/Honey mustard salad dressing.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Mexican dip II/Mexican dip.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Mexican dip/Mexican dip.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Microwaved spicy apple relish/Microwaved spicy apple relish.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Orzo pilaf/Orzo pilaf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Pesto dip/Pesto dip.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Pickled watermelon rind/Pickled watermelon rind.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Quiche Lorraine/Quiche Lorraine.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Roasted red-pepper dip/Roasted red-pepper dip.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Scrabble/Scrabble.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Spinach balls/Spinach balls.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Spinach dip in french bread/Spinach dip in french bread.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Watermelon rind pickles/Watermelon rind pickles.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Appetizers/Welsh rabbit/Welsh Rabbit.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Bread and biscuits/Brown bread/Brown bread.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Bread and biscuits/Casserole dill bread/Casserole dill bread.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Bread and biscuits/Corn bread/Corn bread.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Bread and biscuits/Cream of tartar biscuits II/Cream of tartar biscuits.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Bread and biscuits/Cream of tartar biscuits/Cream of tartar biscuits.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Bread and biscuits/English muffins/English muffins.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Bread and biscuits/Perfect popovers/Perfect popovers.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Bread and biscuits/Popovers/Popovers.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Bread and biscuits/Shredded wheat prune bread/Shredded wheat prune bread.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Bread and biscuits/Some good recipes using stone ground corn meal/Some good recipes using stone ground corn meal.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Bread and biscuits/Sweet-potato buttermilk biscuits/Bill Neal's sweet-potato buttermilk biscuits.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Bread and biscuits/Whole wheat bread/whole wheat bread.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Breakfast/Chunky granola/Chunky granola.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Breakfast/Currant-oat waffles/Currant-oat waffles.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Breakfast/Victorian delight casserole/Victorian delight casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Carrot, pineapple and nut bread/Carrot, pineapple, nut bread.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Carrot-bran bread/Carrot-bran bread.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Cheese-filled raisin nut bread/Cheese filled raisin nut bread.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Chocolate bread/Chocolate bread.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Cranberry pumpkin bread/Cranberry pumpkin bread homemade with love.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Date oat bread/Date oat bread.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Lemon-nut bread/Lemon nut bread.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Orange wholewheat bread/Orange whole wheat bread.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Pineapple-date bread/Pineapple date bread.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Prune-pecan bread/Prune-pecan bread.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Rhubarb bread/Rhubarb bread.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Whole wheat dough/Whole-wheat dough.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Whole wheat dough/whole wheat dough.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Whole wheat dough/whole wheat dough2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Zucchini bread II/Zucchini bread.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Bread/Zucchini bread/Zucchini bread.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Apple and walnut cupcakes/Apple + walnut cupcakes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Apple chocolate chip cake/Apple chocolate chip cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Apple walnut supreme cake/Apple walnut surpreme cake.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Baked rhubarb sponge/Baked rhubarb sponge.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Blueberry sour cream cake/Blueberry sour cream cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Blueberry walnut cake with streusal topping/Blueberry coffee cake with streusel topping.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Chocolae chip cookie cake/Chocolate chip cookie cake.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Chocolate rasberry layer cake/Chocolate-rasberry layer cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Coconut cake/Coconut cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Cranberry bread/Cranberry bread.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Cranberry coffee cake/Cranberry coffee cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Cream cheese cupcakes/Cream cheese cupcakes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Date cake/Date cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Double prine coffee cake/Double prune coffee cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Dream cake/Dream cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Eggnog quick bread/Eggnog quick bread.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Frosted apple cake/Frosted apple cake.rtf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Fruit cake/Fruit cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Gingerbread cake/Gingerbread cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Holiday fruit cake (light)/Holiday fruit cake (light).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Hot milk sponge cake/Hot-milk sponge cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Jelly roll/Jelly roll.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Kahlua cake/Kahlua cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Lemon pound cake/Lemon pound cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Lemon tea cakes/Lemon tea cakes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Lemon torte/Lemon torte.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Magic fruit cake/Magic fruit cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Mincemeat cake/Mincemeat cake.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Molasses cupcakes/Molasses cupcakes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Old fashioned marble cake/Old fashioned marble cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Peach nut coffee cake/Peach nut coffee cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Peanut butter cupcakes/Peanut butter cupcakes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Pecan oat cupcakes/Pecan oat cakes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Pineapple orange cake/Pineapple orange cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Pineapple rightside up cake/Pineapple rightside up cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Pistachio cake/Pistachio cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Pound cake/Pound cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Pumpkin cake/Pumpkin cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Rasberry-cream cheese coffee cake/Rasberry-cream cheese coffee cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Ricotta cake/Ricotta cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Russian torte/Russian torte.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Sour cream coffee cake/Sour cream coffee cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Sour cream pound cake/Sour cream pound cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Spumoni cake/Spumoni cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Streusel coffee cake/Streusel coffee cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Streusel-topped rhubarb coffee cake/Streusel-topped rhubarb coffee cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Torte II/Torte.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Torte/Torte.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Treasure cake/Treasure cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Wowie cake/Wowie cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/Yummy chocolate cake/Yummy chocolate cake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cake/tea party loaf/Tea party loaf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Angelloni cookies/Angelloni cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Anise toast/Anise toast.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Bake-to-nature cookies/Bake-to-nature cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Blueberry cookies/Blueberry cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Cherry winks/Cherry winks.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Chewy oatmeal fruit cookies/Chewy oatmeal fruit cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Choc-oat chip cookies/Choc-oat chip cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Chocolate macaroons/Chocolate macaroons.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Chocolava cookies/Chocolava cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Christmas cookies/Christmas cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Coffee waltnut coconut drop/Coffee walnut coconut drop.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Cranberry cookies/Cranberry cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Crisp prune cookies/Crisp prune cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Drop cookies/Drop cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Easy party cookie recipe/Easy party cookie recipe.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Giant chewy peanut butter and apple cookies/Giant chewy peanut butter and apple cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Ginger crackles/Ginger crackles.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Gingerbread men/Gingerbread men 2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Gingerbread men/Gingerbread men.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Gingerbread men/Gingerbread men.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Grace sugar cookies/Grace sugar cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Grammy's gingerbread men/Grammy's gingerbread men.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Grammy's gingerbread men/Grammy's gingerbread men.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Italian chocolate spice drops/Italian chocolate spice drops.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Italian cookies/Italian cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Italian molasses fruit-nut biscotti/Italian molasses fruit-nut biscotti.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Jumbo cookies/Jumbo cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Lemon cookies/Lemon cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Madeleines/Madeleines.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Mince cookies/Mince cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Molasses cookies/Molasses cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Nieman Marcus cookies/Nieman Marcus cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Peanut butter chocolate chunk cookies/Peanut butter chocolate chunk cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Pfeffernusse/Pfeffernusse 2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Pfeffernusse/Pfeffernusse 3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Pfeffernusse/Pfeffernusse.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Pfeffernusse/Pfeffernüsse.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Pumpkin cookies/Pumpkin cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Quick lemon crisps/Quick lemon crisps.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Raisin cookies/Raisin cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Raw-apple cookies/Raw-apple cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Ricotta cheese cookies/Ricotta cheese cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Sandies /Sandies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Sesame cookies/Sesame cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Soft spicy hermit/Soft spicy hermit.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Spice biscotti/Spice biscotti.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Surprise meringues/Surprise meringues.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Toll house cookies/Toll house cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Cookies/Versatile butter cookies/Versatile butter cookies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Fruit cobblers/Apple crisp/Apple crisp.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Fruit cobblers/Apple twists/Apple twists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Fruit cobblers/Brown bettys/Brown bettys.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Fruit cobblers/Cranberry -apple bake/Cranberry-apple bake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Fruit cobblers/Peach dumplings/Peach dumplings.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Fruit cobblers/Peach-berry cobbler/Peach-berry cobbler.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Fruit cobblers/Plum cobbler/Plum cobbler.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Fruit cobblers/Rainbow fruit compote/Rainbow fruit compote.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Fruit cobblers/Rhubarb crisp/Rhubarb crisp.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Fruit cobblers/Rhubarb crumble/Rhubarb crumble.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Other/Bananas Foster.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Other/Blueberry jam/Blueberry jam.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Other/Caramel grahams/Caramel grahams.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Other/Maple butter/Maple butter.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Other/Rhubarb sauce/Rhubarb sauce, Strawberry Honey-Rhubarb pudding, Banana rhubarb pudding.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Other/Rum balls II/Rum balls.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Other/Rum balls/Rum balls.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Other/Snowballs/Snowballs.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Other/Sublime sweetheart salad/Sublime sweetheart salad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Apricot meringue pie/Apricot meringue pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Apricot meringue pie/Apricot meringue pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Broken glass/Broken glass.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Butter pecan pie/Butter pecan pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Butter pecan pie/Butter pecan pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Butter pecan pie/butter pecan pie 2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Carrot pecan crunch pie/Carrot pecan crunch pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Carrot pecan crunch pie/Carrot pecan crunch pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Cherry pie/Cherry pie 2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Cherry pie/Cherry pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Cherry pie/Cherry pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Cranberry pie/Cranberry pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Cranberry pie/Cranberry pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Custard pie filling/Custard pie filling 2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Custard pie filling/Custard pie filling.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Custard pie filling/Custard pie filling.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Custard pie/Custard pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Custard pie/custard pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Deep dish fresh peach pie/Deep dish fresh peach pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Easter pie/Easter pie 1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Easter pie/Easter pie 2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Easter pie/Easter pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Frosted Daiquiri pie/Frosted Daiquiri pie - Toll house.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Frosted Daiquiri pie/Frosted daiquiri pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Impossible pie/Impossible pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Impossible pie/impossible pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Kentucky pecan pie/Kentucky pecan pie.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Kentucky pecan pie/Kentucky pecan pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Lemon meringue pie/Lemon meringue pie 2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Lemon meringue pie/Lemon meringue pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Lemon meringue pie/Lemon meringue pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Mile high strawberry pie/Mile high strawberry pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Mile high strawberry pie/Mile high strawberry pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Oatmeal pie/Oatmeal pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Oatmeal pie/Oatmeal pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Pastry crust + cherry pie/Pastry crust + Cherry pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Peach pie ottoway news service/Peach pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Peach pie ottoway news service/Peach pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Peanut butter pie/Peanut butter pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Peanut butter pie/Peanut butter pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Pineapple cream pie/Pineapple cream pie 2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Pineapple cream pie/Pineapple cream pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Pineapple cream pie/Pineapple cream pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Plum peachy deep dish pie/Plum peachy deep dish pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Plum peachy deep dish pie/Plum peachy deep dish pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Plum peachy deep dish pie/Plum peachy pie 2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Pumpkin apple pie/Pumpkin apple pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Ricotta cheese pie/Ricotta cheese pie (makes 2 pies).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Ricotta cheese pie/Ricotta cheese pie 2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Ricotta cheese pie/Ricotta cheese pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Shoofly pie/Shoofly pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Strawberry pie/Strawberry pie (conf. chat).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Strawberry pie/Strawberry pie.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Velvety custard pie/Velvety custard pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Pies/Velvety custard pie/Velvety custard pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Applesauce pudding/Applesauce pudding.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Baked fruit pudding/Baked fruit pudding.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Chocolate bread pudding/Chocolate bread pudding.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Corn pudding/Corn pudding.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Creamy purple plum mold/Creamy purple plum mold.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Creme de menthe mousse/Creme de menthe mousse.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Danish red-fruit pudding/Danish red-fruit pudding.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Dessert/Dessert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/English trifle/English trifle.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Grapenut pudding/Grapenut pudding.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Greek rice pudding/Greek rice pudding.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Indian pudding/Indian pudding.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Lemon dessert/Lemon dessert.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Light strawberry mousse/Light strawberry mousse.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Mary's bread pudding/Mary's bread pudding.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/New England pudding/New England pudding.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Pineapple rise/Pineapple rise.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Rhubarb supreme with strawberry sauce/Rhubarb supreme with strawberry sauce.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Rhubarb tapioca/Rhubarb tapioca .txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Rhubarb whip/Rhubarb whip.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Desserts/Puddings/Steamed pumpkin pudding/Steamed pumpkin pudding.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Drinks/Cranberry punch/Cranberry punch.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Drinks/Eggnog/Eggnog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Drinks/Minted fizz/Minted fizz.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Drinks/Party punch/Party punch.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Baked corn and oysters/Baked corn and oysters.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Cheese and salmon bake/Cheese and salmon bake.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Crabmeat and rice au gratin/Crabmeat and rice au gratin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Crabmeat casserole/Crabmeat casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Deviled egg mold/Deviled egg mold.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Fish cakes/Fish cakes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Fish tacos/Fish tacos.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Fried crab cakes/Fried crab cakes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Langostino:clam casserole/Langostino:clam casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Marinade for fish/Marinade for fish.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Mussels in wine sauce/Mussels in wine sauce.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Parade magazine dish/Parade magazine dish.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Scalloped oysters/Scalloped oysters.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Scallops, Jimmy-style/Scallops, Jimmy-style.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Stir-fried shrimp &amp; pea pods/Stir-fried shrimp &amp; pea pods.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Susan's tuna treat/Susan's tuna treat.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Tuna - mushroom roll-up/Tuna - mushroom roll-up.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Fish/Tuna chop suey/Tuna chop suey.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/American chop suey/American chop suey.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Bacon and egg casserole/Egg casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Beef porcupines/Beef porcupines.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Brisket in marinade/Brisket in marinade.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Cheddar cheese hash/Cheddar cheese hash.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Corned beef stuffed baked potatoes/Corned beef stuffed baked potatoes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Cosy casserole dish/Cosy casserole dish.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Eggplant and meatballs parmigiana/Eggplant and meatballs parmigiana.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Ham balls/Ham balls.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Hamburger eggplant casserole/Hamburger eggplant casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Hamburger jumble/Hamburger jumble.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Italian pancake dinner/Italian pancake dinner.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Lamb, stringbeans, &amp; potatoes/Lamb, stringbeans, &amp; potatoes.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Lentils and beef/Lentils and beef.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Mustard coating for lamb/Mustard coating for lamb.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Pineapple beef loaf/Pineapple beef loaf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Polly Bergen's chili/Polly Bergen's chili.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Rice torte/Rice torte.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Sausage and macaroni dinner/Sausage and macaroni dinner.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Sausage rounds /Sausage rounds.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Stuffing/Stuffing.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Swedish meatballs in caper sauce/Swedish meatballs in caper sauce.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Teriyaki meat balls/Teriyaki meat balls.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Meat/Veal birds with noodles/Veal birds with noodles.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Banana muffins/Banana muffins.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Cheesecake squares/Cheesecake squares.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Cherry crunch/Cherry crunch.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Cherry macaroon bars/Cherry macaroon bars.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Congo bars/Congo bars.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Corn muffins/Corn muffins.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Country squares/Country squares.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Cranberry bars/Cranberry bars.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Czechoslovakian bars/Czechoslovakian bars.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Date bars/Date bars.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Date squares/Date squares.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Fig squares/Fig squares.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Honey oat muffins/Honey oat muffins.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Magic cookie bars/Magic cookie bars.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Manadnock bars/Manadnock bars.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Old-fashioned oatmeal muffins/Old-fashioned oatmeal muffins.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Orange-honey muffins/Orange-honey muffins.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Pumpkin muffins/Pumpkin muffins.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Pumpkin-cranberry muffins/Pumpkin-cranberry muffins.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Scotchy peanut bars /Scotchy peanut bars.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Muffins and bars/Seven-layer squares/Seven-layer squares.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/All-American macaroni casserole/All-American macaroni casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Asparagus baked with noodles/Asparagus baked with noodles.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Bow tie macaroni/Bow tie macaroni.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Broccoli and shells/Broccoli and shells.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Creamy risotto primavera/Creamy risotto primavera.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Fettuccine with shrimp and vegetables/Fettuccine with shrimp and vegetables.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Gorgonzola cheese pasta/Gorgonzola cheese pasta.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Greece's pastitsu/Greece's pastitsu (baked beef and macaroni).txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Hot &amp; herby winter tomato sauce/Hot &amp; herby winter tomato sauce.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Italian potato gnocchi/Italian potato gnocchi.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Lasagna with fresh mozzarella, ricotta, and tomato sauce/Lasagna with fresh mozzarella, ricotta, and tomato sauce.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Lemony penne and broccoli/Lemony penne &amp; broccoli.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Macaroni and cheese/Macaroni and cheese.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Macaroni loaf/Macaroni loaf.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Nancy Clancy's basic red clam sauce/Nancy Clancy's basic red clam sauce.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Pasta fagioli/Pasta fagioli.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Pasta with spinach, gorgonzola and prosciutto sauce/Pasta with spinach, gorgonzola and prosciutto sauce.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Pastitso/Pastitso.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Penne in cream sauce with sausage/Penne in cream sauce with sausage.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Pesto/Pesto.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Rice pilaf with spinach/Rice pilaf with spinach.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Spaghetti sauce/Spaghetti sauce.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Spaghetti with white clam sauce/Spaghetti with white clam sauce.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Spinach Romagna style pasta sauce/Spinach Romagna style pasta sauce.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Three cheese macaroni and cheese/Three cheese macaroni and cheese.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Tomato sauce/Tomato sauce.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Pasta and rice/Twists and eggplant/Twists and eggplant.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Apricot-dijon chicken/Apricot-dijon chicken.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Baked chicken wings II/Baked chicken wings.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Baked chicken wings/Baked chicken wings.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Chicken &amp; broccoli alfredo/Chicken &amp; broccoli alfredo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Chicken Diane/Chicken Diane.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Chicken La Fiore/Chicken La Fiore.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Chicken and peas/Chicken and peas.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Chicken campagnola/Chicken campagnola.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Chicken cheese tortilla/Chicken cheese tortilla.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Chicken cordon bleu/Chicken cordon bleu.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Chicken curry casserole/Chicken curry casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Chicken harvester/Chicken harvester.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Chicken pot pie/Chicken pot pie.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Chicken tetrazzini/Chicken tetrazzini.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Citrus chicken stir-fry/Citrus chicken stir-fry.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Coq au vin/Coq au vin.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Cornish game hens and wild rice/Cornish game hens and wild rice.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Cranberry-chicken exotic/Cranberry-chicken exotic.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Crystal Hobmail's fried chicken/Crystal Hobmail's fried chicken.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Hearty chicken &amp; noodle casserole/Hearty chicken &amp; noodle casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Italian chicken/Italian chicken.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Juciest-ever roast turkey/The juciest-ever roast turkey.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Lemon garlic grilled drumsticks/Lemon garlic grilled drumsticks.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Mexican chicken/Mexican chicken.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Sherried chicken and rice/Sherried chicken and rice.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Stuffing/Stuffing.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Turkey or chicken divan/Turkey or chicken divan.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/Vaugely tandoori marinade/Vaguely tandoori marinade.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Poultry/White-bean salad with chicken/White-bean salad with chicken.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Salads/3-bean salad/3-bean salad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Salads/Calypso rice/Calypso rice.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Salads/Cranberry salad/Cranberry salad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Salads/Jello and beet salad/Jello and beet salad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Salads/Oriental chicken salad/Oriental chicken salad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Salads/Pasta and bean salad/Pasta and bean salad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Salads/Pasta salad with chicken/Pasta salad with chicken.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Salads/Peppery chicken spinach salad/Peppery chicken spinach salad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Salads/Pesto barley salad/Pesto barley salad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Salads/Shrimp macaroni salad/Shrimp macaroni salad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Salads/Spinach salad/Spinach salad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Salads/Spinach, mushroom, and fennel salad/Spinach, mushroom, and fennel salad with warm bacon vinaigrette.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Salads/Sun ball salad/Sun ball salad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Salads/Taco salad/Taco salad.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Asparagus soup/Asparagus soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Basque vegetable soup/Basque vegetable soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Bean and turkey sausage soup/Bean and turkey sausage soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Bean soup/Bean soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Brie's butternut squash bisque/Brie's butternut squash bisque.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Butternut squash and carrot soup/Butternut squash and carrot soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Butternut squash, pear, and orange soup/Butternut squash, pear and orange soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Chicken meatball soup with peas/Chicken meatball soup with peas.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Chinese shrimp and tomato soup/Chinese shrimp and tomato soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Corn and wild rice soup with smoked sausage/Corn and wild rice soup with smoked sausage.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Cream of asparagus soup/Cream of asparagus soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Cream of corn soup/Cream of corn soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Creamy Broccoli soup/Norma Johanson's creamy broccoli soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Curried vegetable soup/Curried vegetable soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Elsa's squash soup/Elsa's squash soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/French onion soup/French onion soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/French vickyssoise/French vickyssoise.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Grandmother's cabbage soup/Grandmother's cabbage soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Hearty chicken and vegetable soup/Hearty chicken and vegetable soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Hearty corn chowder/Hearty corn chowder.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Hearty minestrone/Hearty minestrone.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Italian pasta and bean soup/Italian pasta and bean soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Italian sausage and vegetable soup/Italian sausage and vegetable soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Minestrone/Minestrone.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Orange butternut soup/Orange-butternut soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Pork and sausage ragu/Pork and sausage ragu.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Pot luck soup/Pot luck soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Potato-cheese soup/Potato-cheese soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Roasted carrot and beet soup/Roasted carrot and beet soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Sausage and zucchini soup/Sausage and zucchini soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Sausage soup for 10/Sausage soup for 10.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Smoked salmon and corn chowder/Smoked salmon and corn chowder.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Tortilla soup/Tortilla soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Turkey barley soup/Turkey barley soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Turkey noodle soup/Turkey noodle soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Vegetable and turkey-bone soup/Vegetable and turkey-bone soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Vegetable soup/Vegetable soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Soups/Watercress soup/Watercress soup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Vegetables/Braised celery/Braised celery.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Vegetables/Broccoli &amp; cheese casserole/Broccoli &amp; cheese casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Vegetables/Celery casserole/Celery casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Vegetables/Cheesy zucchini frittata/Cheesy zucchini frittata.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Vegetables/Fresh vegetable casserole/Fresh vegetable casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Vegetables/Green bean casserole/Green bean casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Vegetables/Marinated carrots/Marinated carrots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Vegetables/Old-time squash casserole/Old-time squash casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Vegetables/Potato casserole/Potato casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Vegetables/Vegetable rice casserole/Vegetable rice casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Vegetables/Warrior's casserole/Warrior's casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Vegetables/Zucchini casserole/Zucchini casserole.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/Vegetables/Zucchini potato frittata/Zucchini potato frittata.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-3-bean-salad.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-all-american-macaroni-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-american-chop-suey.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-apricot-dijon-chicken.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-asparagus-baked-with-noodles.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-asparagus-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bacon-tomato-cups.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-baked-chicken-wings.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-baked-corn-and-oysters.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-banana-muffins.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bananas-foster.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-basque-vegetable-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bean-and-turkey-sausage-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bean-dip.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bean-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-beef-porcupines.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bill-neal's-sweet-potato-buttermilk-biscuits.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bow-tie-macaroni.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-braised-celery.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bread-cheese-squares.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-brie's-butternut-squash-bisque.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-brisket-in-marinade.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-broccoli-&amp;-cheese-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-broccoli-and-shells.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-brown-bread.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-butternut-squash,-pear-and-orange-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-butternut-squash-and-carrot-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-calypso-rice.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-casserole-dill-bread.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-celery-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cheddar-cheese-hash.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cheese-and-salmon-bake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cheesecake-squares.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cheesettes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cheesy-zucchini-frittata.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cherry-crunch.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cherry-macaroon-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chex-party-mix-microwave-recipe.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chex-party-mix.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chicken-&amp;-broccoli-alfredo.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chicken-and-peas.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chicken-campagnola.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chicken-cheese-tortilla.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chicken-cordon-bleu.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chicken-curry-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chicken-diane.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chicken-harvester.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chicken-la-fiore.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chicken-meatball-soup-with-peas.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chicken-pot-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chicken-tetrazzini.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chinese-shrimp-and-tomato-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-chunky-granola.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-citrus-chicken-stir-fry.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cocktail-meatballs.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-congo-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-coq-au-vin.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-corn-and-wild-rice-soup-with-smoked-sausage.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-corn-bread.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-corn-muffins.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-corn-relish.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-corned-beef-stuffed-baked-potatoes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cornish-game-hens-and-wild-rice.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cosy-casserole-dish.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-country-squares.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-crab-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-crabmeat-and-rice-au-gratin.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-crabmeat-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cranberry-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cranberry-chicken-exotic.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cranberry-mold.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cranberry-punch.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cranberry-salad.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cream-of-asparagus-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cream-of-corn-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cream-of-tartar-biscuits.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-creamy-risotto-primavera.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-creamy-spinach-dip.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-crystal-hobmail's-fried-chicken.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-currant-oat-waffles.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-curried-vegetable-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-czechoslovakian-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-date-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-date-squares.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-deviled-egg-mold.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-egg-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-eggnog.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-eggplant-and-meatballs-parmigiana.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-eggplant-antipasto.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-elsa's-squash-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-english-muffins.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fettuccine-with-shrimp-and-vegetables.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fig-squares.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish-cakes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish-tacos.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-flavored-crackers.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-french-onion-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-french-vickyssoise.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fresh-vegetable-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fried-crab-cakes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-gorgonzola-cheese-pasta.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-grandmother's-cabbage-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-greece's-pastitsu-(baked-beef-and-macaroni).markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-green-bean-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-green-tomato-pickles.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-guacamole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-ham-balls.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-hamburger-eggplant-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-hamburger-jumble.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-hearty-chicken-&amp;-noodle-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-hearty-chicken-and-vegetable-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-hearty-corn-chowder.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-hearty-minestrone.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-herb-curry-dip.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-honey-mustard-salad-dressing.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-honey-oat-muffins.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-hot-&amp;-herby-winter-tomato-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-italian-chicken.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-italian-pancake-dinner.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-italian-pasta-and-bean-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-italian-potato-gnocchi.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-italian-sausage-and-vegetable-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-jello-and-beet-salad.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-lamb,-stringbeans,-&amp;-potatoes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-langostino:clam-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-lasagna-with-fresh-mozzarella,-ricotta,-and-tomato-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-lemon-garlic-grilled-drumsticks.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-lemony-penne-&amp;-broccoli.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-lentils-and-beef.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-macaroni-and-cheese.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-macaroni-loaf.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-magic-cookie-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-manadnock-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-marinade-for-fish.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-marinated-carrots.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-mexican-chicken.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-mexican-dip.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-microwaved-spicy-apple-relish.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-minestrone.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-minted-fizz.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-mussels-in-wine-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-mustard-coating-for-lamb.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-nancy-clancy's-basic-red-clam-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-norma-johanson's-creamy-broccoli-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-old-fashioned-oatmeal-muffins.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-old-time-squash-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-orange-butternut-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-orange-honey-muffins.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-oriental-chicken-salad.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-orzo-pilaf.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-parade-magazine-dish.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-party-punch.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-bean-salad.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-fagioli.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-salad-with-chicken.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-with-spinach,-gorgonzola-and-prosciutto-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pastitso.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-penne-in-cream-sauce-with-sausage.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-peppery-chicken-spinach-salad.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-perfect-popovers.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pesto-barley-salad.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pesto-dip.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pesto.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pickled-watermelon-rind.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pineapple-beef-loaf.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-polly-bergen's-chili.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-popovers.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pork-and-sausage-ragu.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pot-luck-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-potato-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-potato-cheese-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pumpkin-cranberry-muffins.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-quiche-lorraine.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-rice-pilaf-with-spinach.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-rice-torte.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-roasted-carrot-and-beet-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-roasted-red-pepper-dip.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-sausage-and-macaroni-dinner.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-sausage-and-zucchini-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-sausage-rounds.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-sausage-soup-for-10.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-scalloped-oysters.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-scallops,-jimmy-style.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-scotchy-peanut-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-scrabble.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-seven-layer-squares.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-sherried-chicken-and-rice.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-shredded-wheat-prune-bread.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-shrimp-macaroni-salad.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-smoked-salmon-and-corn-chowder.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-some-good-recipes-using-stone-ground-corn-meal.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-spaghetti-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-spaghetti-with-white-clam-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-spinach,-mushroom,-and-fennel-salad-with-warm-bacon-vinaigrette.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-spinach-balls.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-spinach-dip-in-french-bread.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-spinach-romagna-style-pasta-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-spinach-salad.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-stir-fried-shrimp-&amp;-pea-pods.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-stuffing.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-sun-ball-salad.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-susan's-tuna-treat.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-swedish-meatballs-in-caper-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-taco-salad.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-teriyaki-meat-balls.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-the-juciest-ever-roast-turkey.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-three-cheese-macaroni-and-cheese.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-tomato-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-tortilla-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-tuna---mushroom-roll-up.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-tuna-chop-suey.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-turkey-barley-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-turkey-noodle-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-turkey-or-chicken-divan.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-twists-and-eggplant.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-vaguely-tandoori-marinade.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-veal-birds-with-noodles.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-vegetable-and-turkey-bone-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-vegetable-rice-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-vegetable-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-victorian-delight-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-warrior's-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-watercress-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-watermelon-rind-pickles.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-welsh-rabbit.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-white-bean-salad-with-chicken.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-whole-wheat-bread.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-zucchini-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-zucchini-potato-frittata.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Carrot, pineapple and nut bread/Carrot, pineapple, nut bread.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Carrot, pineapple and nut bread/Carrot, pineapple, nut bread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Carrot-bran bread/Carrot-bran bread.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Carrot-bran bread/Carrot-bran bread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Cheese-filled raisin nut bread/Cheese filled raisin nut bread.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Cheese-filled raisin nut bread/Cheese filled raisin nut bread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Chocolate bread/Chocolate bread.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Chocolate bread/Chocolate bread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Cranberry pumpkin bread/Cranberry pumpkin bread homemade with love.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Cranberry pumpkin bread/Cranberry pumpkin bread homemade with love.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Date oat bread/Date oat bread.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Date oat bread/Date oat bread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Lemon-nut bread/Lemon nut bread.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Lemon-nut bread/Lemon nut bread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Orange wholewheat bread/Orange whole wheat bread.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Orange wholewheat bread/Orange whole wheat bread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Pineapple-date bread/Pineapple date bread.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Pineapple-date bread/Pineapple date bread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Prune-pecan bread/Prune-pecan bread.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Prune-pecan bread/Prune-pecan bread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Rhubarb bread/Rhubarb bread.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Rhubarb bread/Rhubarb bread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Whole wheat dough/Whole-wheat dough.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Whole wheat dough/Whole-wheat dough.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Whole wheat dough/whole wheat dough.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Whole wheat dough/whole wheat dough.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Whole wheat dough/whole wheat dough2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Whole wheat dough/whole wheat dough2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Zucchini bread II/Zucchini bread.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Zucchini bread II/Zucchini bread.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Bread/Zucchini bread/Zucchini bread.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Bread/Zucchini bread/Zucchini bread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Apple and walnut cupcakes/Apple + walnut cupcakes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Apple and walnut cupcakes/Apple + walnut cupcakes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Apple chocolate chip cake/Apple chocolate chip cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Apple chocolate chip cake/Apple chocolate chip cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Apple walnut supreme cake/Apple walnut surpreme cake.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Apple walnut supreme cake/Apple walnut surpreme cake.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Baked rhubarb sponge/Baked rhubarb sponge.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Baked rhubarb sponge/Baked rhubarb sponge.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Blueberry sour cream cake/Blueberry sour cream cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Blueberry sour cream cake/Blueberry sour cream cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Blueberry walnut cake with streusal topping/Blueberry coffee cake with streusel topping.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Blueberry walnut cake with streusal topping/Blueberry coffee cake with streusel topping.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Chocolae chip cookie cake/Chocolate chip cookie cake.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Chocolae chip cookie cake/Chocolate chip cookie cake.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Chocolate rasberry layer cake/Chocolate-rasberry layer cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Chocolate rasberry layer cake/Chocolate-rasberry layer cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Coconut cake/Coconut cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Coconut cake/Coconut cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Cranberry bread/Cranberry bread.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Cranberry bread/Cranberry bread.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Cranberry coffee cake/Cranberry coffee cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Cranberry coffee cake/Cranberry coffee cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Cream cheese cupcakes/Cream cheese cupcakes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Cream cheese cupcakes/Cream cheese cupcakes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Date cake/Date cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Date cake/Date cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Double prine coffee cake/Double prune coffee cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Double prine coffee cake/Double prune coffee cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Dream cake/Dream cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Dream cake/Dream cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Eggnog quick bread/Eggnog quick bread.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Eggnog quick bread/Eggnog quick bread.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Frosted apple cake/Frosted apple cake.rtf" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Frosted apple cake/Frosted apple cake.rtf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Fruit cake/Fruit cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Fruit cake/Fruit cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Gingerbread cake/Gingerbread cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Gingerbread cake/Gingerbread cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Holiday fruit cake (light)/Holiday fruit cake (light).txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Holiday fruit cake (light)/Holiday fruit cake (light).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Hot milk sponge cake/Hot-milk sponge cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Hot milk sponge cake/Hot-milk sponge cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Jelly roll/Jelly roll.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Jelly roll/Jelly roll.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Kahlua cake/Kahlua cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Kahlua cake/Kahlua cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Lemon pound cake/Lemon pound cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Lemon pound cake/Lemon pound cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Lemon tea cakes/Lemon tea cakes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Lemon tea cakes/Lemon tea cakes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Lemon torte/Lemon torte.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Lemon torte/Lemon torte.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Magic fruit cake/Magic fruit cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Magic fruit cake/Magic fruit cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Mincemeat cake/Mincemeat cake.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Mincemeat cake/Mincemeat cake.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Molasses cupcakes/Molasses cupcakes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Molasses cupcakes/Molasses cupcakes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Old fashioned marble cake/Old fashioned marble cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Old fashioned marble cake/Old fashioned marble cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Peach nut coffee cake/Peach nut coffee cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Peach nut coffee cake/Peach nut coffee cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Peanut butter cupcakes/Peanut butter cupcakes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Peanut butter cupcakes/Peanut butter cupcakes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Pecan oat cupcakes/Pecan oat cakes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Pecan oat cupcakes/Pecan oat cakes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Pineapple orange cake/Pineapple orange cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Pineapple orange cake/Pineapple orange cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Pineapple rightside up cake/Pineapple rightside up cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Pineapple rightside up cake/Pineapple rightside up cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Pistachio cake/Pistachio cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Pistachio cake/Pistachio cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Pound cake/Pound cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Pound cake/Pound cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Pumpkin cake/Pumpkin cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Pumpkin cake/Pumpkin cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Rasberry-cream cheese coffee cake/Rasberry-cream cheese coffee cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Rasberry-cream cheese coffee cake/Rasberry-cream cheese coffee cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Ricotta cake/Ricotta cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Ricotta cake/Ricotta cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Russian torte/Russian torte.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Russian torte/Russian torte.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Sour cream coffee cake/Sour cream coffee cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Sour cream coffee cake/Sour cream coffee cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Sour cream pound cake/Sour cream pound cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Sour cream pound cake/Sour cream pound cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Spumoni cake/Spumoni cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Spumoni cake/Spumoni cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Streusel coffee cake/Streusel coffee cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Streusel coffee cake/Streusel coffee cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Streusel-topped rhubarb coffee cake/Streusel-topped rhubarb coffee cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Streusel-topped rhubarb coffee cake/Streusel-topped rhubarb coffee cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Torte II/Torte.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Torte II/Torte.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Torte/Torte.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Torte/Torte.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Treasure cake/Treasure cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Treasure cake/Treasure cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Wowie cake/Wowie cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Wowie cake/Wowie cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/Yummy chocolate cake/Yummy chocolate cake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/Yummy chocolate cake/Yummy chocolate cake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cake/tea party loaf/Tea party loaf.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cake/tea party loaf/Tea party loaf.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Angelloni cookies/Angelloni cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Angelloni cookies/Angelloni cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Anise toast/Anise toast.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Anise toast/Anise toast.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Bake-to-nature cookies/Bake-to-nature cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Bake-to-nature cookies/Bake-to-nature cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Blueberry cookies/Blueberry cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Blueberry cookies/Blueberry cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Cherry winks/Cherry winks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Cherry winks/Cherry winks.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Chewy oatmeal fruit cookies/Chewy oatmeal fruit cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Chewy oatmeal fruit cookies/Chewy oatmeal fruit cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Choc-oat chip cookies/Choc-oat chip cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Choc-oat chip cookies/Choc-oat chip cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Chocolate macaroons/Chocolate macaroons.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Chocolate macaroons/Chocolate macaroons.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Chocolava cookies/Chocolava cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Chocolava cookies/Chocolava cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Christmas cookies/Christmas cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Christmas cookies/Christmas cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Coffee waltnut coconut drop/Coffee walnut coconut drop.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Coffee waltnut coconut drop/Coffee walnut coconut drop.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Cranberry cookies/Cranberry cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Cranberry cookies/Cranberry cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Crisp prune cookies/Crisp prune cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Crisp prune cookies/Crisp prune cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Drop cookies/Drop cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Drop cookies/Drop cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Easy party cookie recipe/Easy party cookie recipe.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Easy party cookie recipe/Easy party cookie recipe.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Giant chewy peanut butter and apple cookies/Giant chewy peanut butter and apple cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Giant chewy peanut butter and apple cookies/Giant chewy peanut butter and apple cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Ginger crackles/Ginger crackles.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Ginger crackles/Ginger crackles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Gingerbread men/Gingerbread men 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Gingerbread men/Gingerbread men 2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Gingerbread men/Gingerbread men.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Gingerbread men/Gingerbread men.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Gingerbread men/Gingerbread men.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Gingerbread men/Gingerbread men.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Grace sugar cookies/Grace sugar cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Grace sugar cookies/Grace sugar cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Grammy's gingerbread men/Grammy's gingerbread men.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Grammy's gingerbread men/Grammy's gingerbread men.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Grammy's gingerbread men/Grammy's gingerbread men.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Grammy's gingerbread men/Grammy's gingerbread men.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Italian chocolate spice drops/Italian chocolate spice drops.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Italian chocolate spice drops/Italian chocolate spice drops.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Italian cookies/Italian cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Italian cookies/Italian cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Italian molasses fruit-nut biscotti/Italian molasses fruit-nut biscotti.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Italian molasses fruit-nut biscotti/Italian molasses fruit-nut biscotti.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Jumbo cookies/Jumbo cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Jumbo cookies/Jumbo cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Lemon cookies/Lemon cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Lemon cookies/Lemon cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Madeleines/Madeleines.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Madeleines/Madeleines.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Mince cookies/Mince cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Mince cookies/Mince cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Molasses cookies/Molasses cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Molasses cookies/Molasses cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Nieman Marcus cookies/Nieman Marcus cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Nieman Marcus cookies/Nieman Marcus cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Peanut butter chocolate chunk cookies/Peanut butter chocolate chunk cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Peanut butter chocolate chunk cookies/Peanut butter chocolate chunk cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Pfeffernusse/Pfeffernusse 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Pfeffernusse/Pfeffernusse 2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Pfeffernusse/Pfeffernusse 3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Pfeffernusse/Pfeffernusse 3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Pfeffernusse/Pfeffernusse.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Pfeffernusse/Pfeffernusse.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Pfeffernusse/Pfeffernüsse.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Pfeffernusse/Pfeffernüsse.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Pumpkin cookies/Pumpkin cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Pumpkin cookies/Pumpkin cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Quick lemon crisps/Quick lemon crisps.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Quick lemon crisps/Quick lemon crisps.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Raisin cookies/Raisin cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Raisin cookies/Raisin cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Raw-apple cookies/Raw-apple cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Raw-apple cookies/Raw-apple cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Ricotta cheese cookies/Ricotta cheese cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Ricotta cheese cookies/Ricotta cheese cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Sandies /Sandies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Sandies /Sandies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Sesame cookies/Sesame cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Sesame cookies/Sesame cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Soft spicy hermit/Soft spicy hermit.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Soft spicy hermit/Soft spicy hermit.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Spice biscotti/Spice biscotti.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Spice biscotti/Spice biscotti.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Surprise meringues/Surprise meringues.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Surprise meringues/Surprise meringues.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Toll house cookies/Toll house cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Toll house cookies/Toll house cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Cookies/Versatile butter cookies/Versatile butter cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Cookies/Versatile butter cookies/Versatile butter cookies.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Fruit cobblers/Apple crisp/Apple crisp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Fruit cobblers/Apple crisp/Apple crisp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Fruit cobblers/Apple twists/Apple twists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Fruit cobblers/Apple twists/Apple twists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Fruit cobblers/Brown bettys/Brown bettys.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Fruit cobblers/Brown bettys/Brown bettys.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Fruit cobblers/Cranberry -apple bake/Cranberry-apple bake.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Fruit cobblers/Cranberry -apple bake/Cranberry-apple bake.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Fruit cobblers/Peach dumplings/Peach dumplings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Fruit cobblers/Peach dumplings/Peach dumplings.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Fruit cobblers/Peach-berry cobbler/Peach-berry cobbler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Fruit cobblers/Peach-berry cobbler/Peach-berry cobbler.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Fruit cobblers/Plum cobbler/Plum cobbler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Fruit cobblers/Plum cobbler/Plum cobbler.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Fruit cobblers/Rainbow fruit compote/Rainbow fruit compote.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Fruit cobblers/Rainbow fruit compote/Rainbow fruit compote.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Fruit cobblers/Rhubarb crisp/Rhubarb crisp.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Fruit cobblers/Rhubarb crisp/Rhubarb crisp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Fruit cobblers/Rhubarb crumble/Rhubarb crumble.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Fruit cobblers/Rhubarb crumble/Rhubarb crumble.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Other/Bananas Foster.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Other deserts/Bananas Foster.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Other/Blueberry jam/Blueberry jam.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Other deserts/Blueberry jam/Blueberry jam.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Other/Caramel grahams/Caramel grahams.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Other deserts/Caramel grahams/Caramel grahams.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Other/Maple butter/Maple butter.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Other deserts/Maple butter/Maple butter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Other/Rhubarb sauce/Rhubarb sauce, Strawberry Honey-Rhubarb pudding, Banana rhubarb pudding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Other deserts/Rhubarb sauce/Rhubarb sauce, Strawberry Honey-Rhubarb pudding, Banana rhubarb pudding.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Other/Rum balls II/Rum balls.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Other deserts/Rum balls II/Rum balls.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Other/Rum balls/Rum balls.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Other deserts/Rum balls/Rum balls.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Other/Snowballs/Snowballs.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Other deserts/Snowballs/Snowballs.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Other/Sublime sweetheart salad/Sublime sweetheart salad.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Other deserts/Sublime sweetheart salad/Sublime sweetheart salad.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Apricot meringue pie/Apricot meringue pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Apricot meringue pie/Apricot meringue pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Apricot meringue pie/Apricot meringue pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Apricot meringue pie/Apricot meringue pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Broken glass/Broken glass.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Broken glass/Broken glass.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Butter pecan pie/Butter pecan pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Butter pecan pie/Butter pecan pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Butter pecan pie/Butter pecan pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Butter pecan pie/Butter pecan pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Butter pecan pie/butter pecan pie 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Butter pecan pie/butter pecan pie 2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Carrot pecan crunch pie/Carrot pecan crunch pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Carrot pecan crunch pie/Carrot pecan crunch pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Carrot pecan crunch pie/Carrot pecan crunch pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Carrot pecan crunch pie/Carrot pecan crunch pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Cherry pie/Cherry pie 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Cherry pie/Cherry pie 2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Cherry pie/Cherry pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Cherry pie/Cherry pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Cherry pie/Cherry pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Cherry pie/Cherry pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Cranberry pie/Cranberry pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Cranberry pie/Cranberry pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Cranberry pie/Cranberry pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Cranberry pie/Cranberry pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Custard pie filling/Custard pie filling 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Custard pie filling/Custard pie filling 2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Custard pie filling/Custard pie filling.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Custard pie filling/Custard pie filling.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Custard pie filling/Custard pie filling.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Custard pie filling/Custard pie filling.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Custard pie/Custard pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Custard pie/Custard pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Custard pie/custard pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Custard pie/custard pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Deep dish fresh peach pie/Deep dish fresh peach pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Deep dish fresh peach pie/Deep dish fresh peach pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Easter pie/Easter pie 1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Easter pie/Easter pie 1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Easter pie/Easter pie 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Easter pie/Easter pie 2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Easter pie/Easter pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Easter pie/Easter pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Frosted Daiquiri pie/Frosted Daiquiri pie - Toll house.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Frosted Daiquiri pie/Frosted Daiquiri pie - Toll house.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Frosted Daiquiri pie/Frosted daiquiri pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Frosted Daiquiri pie/Frosted daiquiri pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Impossible pie/Impossible pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Impossible pie/Impossible pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Impossible pie/impossible pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Impossible pie/impossible pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Kentucky pecan pie/Kentucky pecan pie.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Kentucky pecan pie/Kentucky pecan pie.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Kentucky pecan pie/Kentucky pecan pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Kentucky pecan pie/Kentucky pecan pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Lemon meringue pie/Lemon meringue pie 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Lemon meringue pie/Lemon meringue pie 2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Lemon meringue pie/Lemon meringue pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Lemon meringue pie/Lemon meringue pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Lemon meringue pie/Lemon meringue pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Lemon meringue pie/Lemon meringue pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Mile high strawberry pie/Mile high strawberry pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Mile high strawberry pie/Mile high strawberry pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Mile high strawberry pie/Mile high strawberry pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Mile high strawberry pie/Mile high strawberry pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Oatmeal pie/Oatmeal pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Oatmeal pie/Oatmeal pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Oatmeal pie/Oatmeal pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Oatmeal pie/Oatmeal pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Pastry crust + cherry pie/Pastry crust + Cherry pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Pastry crust + cherry pie/Pastry crust + Cherry pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Peach pie ottoway news service/Peach pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Peach pie ottoway news service/Peach pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Peach pie ottoway news service/Peach pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Peach pie ottoway news service/Peach pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Peanut butter pie/Peanut butter pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Peanut butter pie/Peanut butter pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Peanut butter pie/Peanut butter pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Peanut butter pie/Peanut butter pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Pineapple cream pie/Pineapple cream pie 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Pineapple cream pie/Pineapple cream pie 2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Pineapple cream pie/Pineapple cream pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Pineapple cream pie/Pineapple cream pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Pineapple cream pie/Pineapple cream pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Pineapple cream pie/Pineapple cream pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Plum peachy deep dish pie/Plum peachy deep dish pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Plum peachy deep dish pie/Plum peachy deep dish pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Plum peachy deep dish pie/Plum peachy deep dish pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Plum peachy deep dish pie/Plum peachy deep dish pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Plum peachy deep dish pie/Plum peachy pie 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Plum peachy deep dish pie/Plum peachy pie 2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Pumpkin apple pie/Pumpkin apple pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Pumpkin apple pie/Pumpkin apple pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Ricotta cheese pie/Ricotta cheese pie (makes 2 pies).txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Ricotta cheese pie/Ricotta cheese pie (makes 2 pies).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Ricotta cheese pie/Ricotta cheese pie 2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Ricotta cheese pie/Ricotta cheese pie 2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Ricotta cheese pie/Ricotta cheese pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Ricotta cheese pie/Ricotta cheese pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Shoofly pie/Shoofly pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Shoofly pie/Shoofly pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Strawberry pie/Strawberry pie (conf. chat).txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Strawberry pie/Strawberry pie (conf. chat).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Strawberry pie/Strawberry pie.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Strawberry pie/Strawberry pie.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Velvety custard pie/Velvety custard pie.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Velvety custard pie/Velvety custard pie.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Pies/Velvety custard pie/Velvety custard pie.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Pies/Velvety custard pie/Velvety custard pie.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Applesauce pudding/Applesauce pudding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Applesauce pudding/Applesauce pudding.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Baked fruit pudding/Baked fruit pudding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Baked fruit pudding/Baked fruit pudding.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Chocolate bread pudding/Chocolate bread pudding.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Chocolate bread pudding/Chocolate bread pudding.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Corn pudding/Corn pudding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Corn pudding/Corn pudding.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Creamy purple plum mold/Creamy purple plum mold.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Creamy purple plum mold/Creamy purple plum mold.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Creme de menthe mousse/Creme de menthe mousse.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Creme de menthe mousse/Creme de menthe mousse.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Danish red-fruit pudding/Danish red-fruit pudding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Danish red-fruit pudding/Danish red-fruit pudding.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Dessert/Dessert.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Dessert/Dessert.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/English trifle/English trifle.md" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/English trifle/English trifle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Grapenut pudding/Grapenut pudding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Grapenut pudding/Grapenut pudding.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Greek rice pudding/Greek rice pudding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Greek rice pudding/Greek rice pudding.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Indian pudding/Indian pudding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Indian pudding/Indian pudding.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Lemon dessert/Lemon dessert.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Lemon dessert/Lemon dessert.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Light strawberry mousse/Light strawberry mousse.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Light strawberry mousse/Light strawberry mousse.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Mary's bread pudding/Mary's bread pudding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Mary's bread pudding/Mary's bread pudding.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/New England pudding/New England pudding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/New England pudding/New England pudding.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Pineapple rise/Pineapple rise.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Pineapple rise/Pineapple rise.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Rhubarb supreme with strawberry sauce/Rhubarb supreme with strawberry sauce.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Rhubarb supreme with strawberry sauce/Rhubarb supreme with strawberry sauce.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Rhubarb tapioca/Rhubarb tapioca .txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Rhubarb tapioca/Rhubarb tapioca .txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Rhubarb whip/Rhubarb whip.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Rhubarb whip/Rhubarb whip.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Desserts/Puddings/Steamed pumpkin pudding/Steamed pumpkin pudding.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Puddings/Steamed pumpkin pudding/Steamed pumpkin pudding.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rename_recipes.py" beforeDir="false" afterPath="$PROJECT_DIR$/rename_recipes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -476,6 +473,11 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/recipes" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="rename_recipes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -528,7 +530,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577101685945</updated>
-      <workItem from="1577101690222" duration="2984000" />
+      <workItem from="1577101690222" duration="5482000" />
     </task>
     <servers />
   </component>
@@ -540,28 +542,36 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="184" y="125" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877@0.23.1440.877" timestamp="1577101811135" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1577107661526">
+    <state x="416" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577121732764">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577107661526" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1577107661525">
+    <state x="416" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1577121732764" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1577123971132">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1577107661525" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1577107661525">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577123971132" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1577123971131">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1577107661525" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1577107661526">
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1577123971131" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1577123971130">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1577107661526" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1577123971130" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1577123971131">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1577123971131" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1577101827772">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1577101827772" />
+    <state x="375" y="225" width="689" height="472" key="find.popup" timestamp="1577121957194">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="375" y="225" width="689" height="472" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1577121957194" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/top_secret$rename_recipes.coverage" NAME="rename_recipes Coverage Results" MODIFIED="1577107661517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/top_secret$rename_recipes.coverage" NAME="rename_recipes Coverage Results" MODIFIED="1577123971120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

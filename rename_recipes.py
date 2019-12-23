@@ -1,4 +1,6 @@
 import glob
+import os
+import shutil
 import textwrap
 
 import re
@@ -10,9 +12,9 @@ def _sentence_to_snake(s):
 
 def _tidy_content(c):
     new_c = c.replace('<br>', '\n').replace('</br>', '\n')
-    new_c = re.sub(r'\n(###)(?=[A-Z])', '\n### ', new_c)
-    new_c = re.sub(r'^(##)(?=[A-Z])', '## ', new_c)
-    new_c = re.sub(r'^(#)(?=[A-Z])', '# ', new_c)
+    new_c = re.sub(r'\n(###)(?=[A-Za-z])', '\n### ', new_c)
+    new_c = re.sub(r'^(##)(?=[A-Za-z])', '## ', new_c)
+    new_c = re.sub(r'^(#)(?=[A-Za-z])', '# ', new_c)
 
     return new_c
 
@@ -22,8 +24,9 @@ def main():
 
     for i, recipe_path in enumerate(recipes[::-1]):
         _, category, name, file_name = recipe_path.split('/')
-        new_file_name = "2019-12-22-" + _sentence_to_snake(file_name).replace(".txt", '.markdown')
-
+        new_file_name = "2019-12-22-" + _sentence_to_snake(category) + '--' + _sentence_to_snake(file_name).replace(".txt", '.markdown')
+        new_image_name = 'assets/' + _sentence_to_snake(category) + '/' + _sentence_to_snake(file_name).replace(".txt", '.jpg')
+        new_image_name2 = 'assets/' + _sentence_to_snake(category) + '/' + _sentence_to_snake(file_name).replace(".txt", ' 2.jpg')
         with open(recipe_path) as fp:
             content = fp.read()
 
@@ -37,11 +40,32 @@ def main():
         """).lstrip()
         print(category, name, new_file_name, file_name)
 
-        print(header)
+        # print(header)
         new_content = header + "\n" + _tidy_content(content.replace(f'#{name}\n', ''))
 
-        with open(f'_posts/{new_file_name}', 'w') as fp:
-            fp.write(new_content)
+        image_path = recipe_path.replace('.txt', '.jpg')
+        has_image = os.path.isfile(image_path)
+        if has_image:
+            new_content += f'\n\n![](/{new_image_name})'
+            os.makedirs(os.path.dirname(new_image_name), exist_ok=True)
+            shutil.copyfile(image_path, new_image_name)
+            print('IMAGE')
+
+        image_path2 = recipe_path.replace('.txt', ' 2.jpg')
+        if os.path.isfile(image_path2):
+            new_content += f'\n\n![](/{new_image_name2})'
+            os.makedirs(os.path.dirname(new_image_name2), exist_ok=True)
+            shutil.copyfile(image_path2, new_image_name2)
+            print('IMAGE2')
+
+        if has_image or len(content.split('\n')) > 2:
+            os.makedirs('_posts', exist_ok=True)
+            with open(f'_posts/{new_file_name}', 'w') as fp:
+                fp.write(new_content)
+                # break
+        else:
+            print("SHORT CONTENT")
+            print(content)
 
 
 if __name__ == "__main__":

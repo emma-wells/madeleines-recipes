@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Spice biscotti"
+date:   2019-12-22 12:02:11 +0000
+categories: cookies
+---
+
+## From ??
+## 23 February 1985
+### Ingredients
+* 3 eggs
+* 1/2 cup oil
+* 3/4 cup sugar
+* 1/2 cup orange juice
+* 1/2 cup grated orange rind
+* 1 teaspoon allspice
+* 1/2 teaspoon cloves
+* 4 cups flour (about)
+* 1 teaspoon cinnamon
+* 1/2 teaspoon nutmeg
+* 1 teaspoon baking powder
+* 1 teaspoon baking soda
+* 1/2 cup raisins
+* 1/2 cup chopped nuts
+* 1/2 cup chopped maraschino cherries
+
+Beat eggs, add oil, sugar, juice, allspice, cloves, cinnamon, nutmeg, baking powder, and baking soda.
+
+
+Mix well.
+ 
+
+Add raisins, cherries, nuts and rind, and mix. Add enough flour to keep dough soft. Form long strips on cookie sheet.
+
+
+Bake at 375F for about 15 minutes or until done.

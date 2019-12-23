@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Grammy's gingerbread men"
+date:   2019-12-22 12:02:13 +0000
+categories: cookies
+---
+
+## From Grandma
+####Ingredients
+* 1 cup brown sugar
+* 1 cup dark molasses
+* 1 cup butter
+*  1 teaspoon baking soda dissolved in 1/3 cup water
+* 1 teaspoon ginger
+* 1 teaspoon cinnamon
+* 1/2 teaspoon salt
+* 4 cups flour
+
+####Method
+
+Bring sugar, molasses, butter to a boil in a large saucepan. Add soda, spices, last flour. Work ingredients together. Chill 8 hours or overnight. Roll out dough to 1/8 thickness on a floured board. Cut with a gingerbreadmen cutter. Decorate with candy buttons and pieces of cherry bake in 350F oven 12-18 minutes. Or until crisp and golden.
+ 

@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Pineapple rightside up cake"
+date:   2019-12-22 12:01:10 +0000
+categories: cake
+---
+
+## From Grandma
+### Bake at 350F, 45 minutes
+### Ingredients
+* 2 cups flour
+* 1/2 cup oil
+* 2 eggs
+* 1 1/2 cups sugar
+* 1/2 cup chopped almonds
+* 1/2 teaspoon salt
+* 1 20oz can of crushed pineapple in juice, drained
+
+
+Combine all ingredients in a large bowl. Beat until smooth. Pour into a greased and floured 13x9 baking pan.
+
