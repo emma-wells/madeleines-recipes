@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Coq au vin"
-date:   2019-12-22 12:00:13 +0000
-categories: poultry
----
-
-## Clipping

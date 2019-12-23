@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Pfeffernusse"
+date:   2019-12-22 12:02:20 +0000
+categories: cookies
+---
+
+# Pfeffernüsse
+##From Naomi?
+### Makes 300
+In one large mixing bowl, combine:
+* 2 cups dark corn syrup
+* 2 cups sugar
+* 2 cups lard
+* 1 cup cold black coffee
+* 1 cup Four Roses (Kentucky bourbon whiskey)
+* 2 teaspoons each: baking soda, baking powder, salt
+* 1 teaspoon each: black pepper, nutmeg, ginger
+* 1.5 teaspoons each: ground cloves, cinnamon 
+
+Blend well. Gradually add 12 cups of flour, 2 cups at a time. Work in until the dough is smooth and slightly stiffer than apple pie pastry. Chill. Pinch off teaspoon-sized pieces and roll into balls. Place on a foil-lined baking sheet. Bake in preheated 350F, 15 minutes. Cool and toss in confectionary sugar. Store in a closed container.
+ 
