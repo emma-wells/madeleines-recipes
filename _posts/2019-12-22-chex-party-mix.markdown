@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Chex party mix"
+date:   2019-12-22 12:03:08 +0000
+categories: appetizers
+---
+
+## From Grandma
+### Ingredients
+* 2 cups wheat chex cereal
+* 2 cups corn chex cereal
+* 2 cups rice chex cereal
+* salted nuts
+* 6 tablespoons butter
+* 4 teaspoons worcestershire suace
+* 1 teaspoon seasoned salt
+
+
+Heat oven to 250F. Melt butter in a large shallow pan over low heat. Stir in Worcestershire sauce and nuts. Mix over low heat until all the pieces are coated. Heat for 45 minutes in the oven, stirring every 15 minutes. Spread out on absorbent paper to cool. Yields 6 3/4 cups.

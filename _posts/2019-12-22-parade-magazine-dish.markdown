@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Parade magazine dish"
+date:   2019-12-22 12:00:50 +0000
+categories: fish
+---
+
+## From Grandma
+### Ingredients
+* 4 tablespoon butter
+* 1 medium onion, choppped
+* 1/2 pound fresh mushrooms
+* 1/4 cup unsifted flour
+* 2 teaspoons salt
+* 1 3/4 cup milk
+*  1 1/2 pounds shrimp, cooked, shelled, de-veined
+* 1 canned pimiento, cut into strips
+* 1/4 cup dry sherry
+* 1 can 7 3/4-ounces king crabmeat, drained
+
+
+Melt butter in a large skillet; sauté onion until tender. Add mushrooms and sauté about 2 minutes longer. Add flour and salt and stir with a wooden spoon until the mixture has bubbled about 1 minute. Slowly add the milk, stirring with a wooden spoon. Simmer until thickened. Add shrimp and crabmeat, pimiento, and sherry. Serve over rice. Serves six.
+ 
