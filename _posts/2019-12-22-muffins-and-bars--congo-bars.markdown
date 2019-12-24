@@ -6,7 +6,7 @@ categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 3/4 cup butter, melted
 * 1 3/4 cup light brown sugar
 * 3 eggs, lightly beaten

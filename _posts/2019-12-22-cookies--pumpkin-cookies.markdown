@@ -6,7 +6,7 @@ categories: cookies from-granda-and-luvtacuk
 ---
 
 ## From Granda and luvtacuk
-### Ingredients
+###Ingredients
 * 1 1/2 cup brown sugar
 * 1/2 cup shortening
 * 2 eggs

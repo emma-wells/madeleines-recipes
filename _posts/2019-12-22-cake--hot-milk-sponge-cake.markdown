@@ -5,9 +5,8 @@ date:   2019-12-22 12:01:42 +0000
 categories: cake from-mom
 ---
 
-# Hot-milk sponge cake
-##From Mom
-### Ingredients
+## From Mom
+###Ingredients
 * 2 eggs
 * 1 cup sugar
 * 1 cup flour

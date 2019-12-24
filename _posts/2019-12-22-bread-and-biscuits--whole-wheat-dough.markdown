@@ -5,9 +5,8 @@ date:   2019-12-22 12:00:57 +0000
 categories: bread-and-biscuits from-grandma
 ---
 
-# Whole-wheat dough
-##From Grandma
-### Ingredients
+## From Grandma
+###Ingredients
 * 2 cups flour
 * 1/2 cup wheat germ
 * 1 envelope active dry yeast

@@ -6,7 +6,7 @@ categories: pasta-and-rice from-mom
 ---
 
 ## From Mom
-### Ingredients
+###Ingredients
 * 1 medium-size bunch of fresh broccoli
 * 4 cups shells
 * 3 tablespoons butter

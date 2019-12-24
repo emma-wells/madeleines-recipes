@@ -5,9 +5,8 @@ date:   2019-12-22 12:00:52 +0000
 categories: bread-and-biscuits from-grandma
 ---
 
-# Cream of tartar biscuits
-##From Grandma
-### Ingredients
+## From Grandma
+###Ingredients
 * 3 cups flour
 * 1 teaspoon salt
 * 2 teaspoon cream of tartar

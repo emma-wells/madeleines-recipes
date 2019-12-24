@@ -6,7 +6,7 @@ categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 3/4 cup old-fashioned rolled oats
 * 3/4 cup plus + 2 tablespoons all-purpose flour
 * 2 tablespoons light-brown sugar

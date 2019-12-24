@@ -6,7 +6,7 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 2/3 cup shortening
 * 1 teaspoon lemon peel
 * 2/3 cup milk

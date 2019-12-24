@@ -6,7 +6,7 @@ categories: cake from-mom-via-firemans-wife
 ---
 
 ## From Mom, via Fireman's Wife
-### Ingredients
+###Ingredients
 * 2 cups flour
 * 1 teaspoon salt
 * 2 teaspoons baking powder

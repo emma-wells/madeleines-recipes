@@ -6,7 +6,7 @@ categories: cake from-mom-and-a-firemans-wife
 ---
 
 ## From Mom, and 'A Fireman's Wife'
-### Ingredients
+###Ingredients
 * 1 1/2 teaspoons shortening  (1)
 * 3 tablespoons sugar (2)
 * 4 tablespoons cocoa (3)

@@ -6,7 +6,7 @@ categories: puddings from-mom
 ---
 
 ## From Mom
-### Ingredients
+###Ingredients
 * 4 cups of crumbs (cookie, cracker, or bread crumbs)
 * 1/4 cup honey
 * 1 1/2 teaspoons cinnamon

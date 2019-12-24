@@ -6,7 +6,7 @@ categories: cake
 ---
 
 ## From ??
-### Ingredients
+###Ingredients
 * 2/3 cup butter or shortening
 * 2/3 cup granulated sugar
 * 2 eggs, beaten

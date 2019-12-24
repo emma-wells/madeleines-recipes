@@ -6,7 +6,7 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1/2 pound margarine
 * 2 cups sugar
 * 4 eggs

@@ -5,8 +5,7 @@ date:   2019-12-22 12:00:14 +0000
 categories: cake from-clipping
 ---
 
-# Chocolate chip cookie cake
-##From clipping 
+## From clipping 
 
 
 ![](/assets/cake/chocolate-chip-cookie-cake.jpg)

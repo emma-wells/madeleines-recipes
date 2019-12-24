@@ -6,7 +6,7 @@ categories: cookies from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 6 cups sifted flour
 * 1 cup melted crisco
 * 1 cup milk
@@ -20,7 +20,7 @@ Beat eggs, sugar and extract until light, then add melted Crisco - beat 1 minute
 
 Add egg mixture and beat with a wooden spoon. Dough should be a little sticky and form a ball which should yield 6 or 7 balls the size of a pie crust. Roll out between paper the same as making a pie crust about 1/4 inch thick. Bake 350F for 20 minutes.
 
-### Filling
+###Filling
 
 Spread with jelly (apricot), sprinkle with raises, dates and nuts (cinnamon if you wish) and roll (4 rolls).
 

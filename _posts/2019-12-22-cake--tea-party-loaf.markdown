@@ -5,9 +5,8 @@ date:   2019-12-22 12:01:47 +0000
 categories: cake from-grandma
 ---
 
-# Tea party loaf
-##From Grandma
-### Ingredients
+## From Grandma
+###Ingredients
 * 3 cups prepared biscuit mix
 * 1 cup quick rolled oats
 * 1 cup sugar

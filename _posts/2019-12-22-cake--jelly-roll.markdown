@@ -6,7 +6,7 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 3 eggs
 * 3 tablespoons cold water
 * 1 cup flour

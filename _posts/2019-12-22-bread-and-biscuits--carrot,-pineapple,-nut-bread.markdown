@@ -5,8 +5,7 @@ date:   2019-12-22 12:00:10 +0000
 categories: bread-and-biscuits from-grandma
 ---
 
-# Carrot, pineapple, nut bread
-##From Grandma
+## From Grandma
 * 3 eggs, beaten
 * 2 cups sugar
 * 1 cup Wessen (canola) oil

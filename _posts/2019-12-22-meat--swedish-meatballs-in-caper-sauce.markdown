@@ -6,7 +6,7 @@ categories: meat from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 pound lean hamburg
 * 3/4 wheat germ flakes
 * 1/4 cup mined onion

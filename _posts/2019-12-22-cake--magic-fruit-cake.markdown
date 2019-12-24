@@ -6,7 +6,7 @@ categories: cake from-mom-via-pink-castle
 ---
 
 ## From Mom, via Pink Castle
-### Ingredients
+###Ingredients
 * 1 9-ounce package of fruit mince meat
 * 1/2 cup water
 * 1 can condensed milk

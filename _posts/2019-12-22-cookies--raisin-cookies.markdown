@@ -6,7 +6,7 @@ categories: cookies from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 2/3 cup butter
 * 1/2 cup brown sugar
 * 6 tablespoons ??? sugar

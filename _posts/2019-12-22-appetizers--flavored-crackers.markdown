@@ -5,9 +5,8 @@ date:   2019-12-22 12:06:17 +0000
 categories: appetizers from-grandma
 ---
 
-# Flavoured crackers
-##From Grandma
-### Ingredients
+## From Grandma
+###Ingredients
 * 12 ounces oyster crackers
 
 Mix 2/3 cup oil in a 13x9" pan. Then blend together:

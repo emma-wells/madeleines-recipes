@@ -6,13 +6,13 @@ categories: cookies from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 2 eggs
 * 1 teaspoon vanilla
 * 1 cup shortening, melted (butter or margarine, if you prefer)
 * 3 teaspoons baking powder
 * 3 1/2 cups flour
-### Method
+###Method
 1. Sift together flour and baking powder
 2. Beat eggs and sugar
 2. Add melted shortening

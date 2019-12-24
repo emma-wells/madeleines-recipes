@@ -6,7 +6,7 @@ categories: fish from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1/4 cup soy sauce
 * 2 tablespoons catsup
 * 1 tablespoon lemon juice

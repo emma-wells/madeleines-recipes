@@ -6,7 +6,7 @@ categories: fish from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 2 cups biscuit mix
 * 1 7-ounce can tuna
 * 1/4 cup mayonnaise

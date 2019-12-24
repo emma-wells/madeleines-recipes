@@ -6,7 +6,7 @@ categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma
-### Crust
+###Crust
 * 3 cups flour
 * 1 teaspoon salt
 * 2 teaspoons baking powder
@@ -18,6 +18,6 @@ categories: muffins-and-bars from-grandma
 Add enough water to make it workable.
 
 
-### Filling
+###Filling
 
 Boil 2 cups sugar - 2 cups water for 5 minutes. Add 1 pound ground figs. Bake at 375-400F.

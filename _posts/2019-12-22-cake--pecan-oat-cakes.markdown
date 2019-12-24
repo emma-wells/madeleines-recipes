@@ -5,8 +5,7 @@ date:   2019-12-22 12:02:02 +0000
 categories: cake from-mom-via-chat
 ---
 
-# Pecan oat cakes
-##From Mom, via Chat
+## From Mom, via Chat
 
 Pour 1 cup boiling water over 1 cup uncooked and rolled oats; let stand while mixing cake. Sift 1 1/2 cups all purpose floour, 2 teaspoons baking powder, and 1 teaspoon salt into mixing bowl. Stir in 1 cup finely chopped pecans.
 

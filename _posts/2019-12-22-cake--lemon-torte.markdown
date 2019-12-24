@@ -6,14 +6,14 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-### Mix:
+###Mix:
 * 1 cup flour
 * 1/2 cup Oleo
 * 1/4 cup chopped nuts
 
 Spread in a glass 7x11" baking dish. Bake at 375F for 15 minutes.
 
-### Mix:
+###Mix:
 * 8 ounce cream cheese
 * 1 cup confectionary sugar
 * 1/2 large Cool Whip
@@ -22,7 +22,7 @@ Spread in a glass 7x11" baking dish. Bake at 375F for 15 minutes.
 Spread over cooled crust.
 
 
-### Beat:
+###Beat:
 * 2 packages instant lemon pudding
 * 3 cups milk
 * 1/2 package Cool Whip

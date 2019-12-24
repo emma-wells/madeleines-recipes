@@ -9,7 +9,7 @@ categories: vegetables from-mom
 
 Hearty enough to use as a main dish with salad and a heavy grain bread, as well as a side dish with poached fish.
 
-### Ingredients
+###Ingredients
 * 1 1/2 cups long grain brown rice
 * 1 medium onion, chopped
 * 2 sliced carrots

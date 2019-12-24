@@ -6,7 +6,7 @@ categories: cookies from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 2 egg whites
 * 1/8 teaspoon salt
 * 1/8 teaspoon cream of tartar

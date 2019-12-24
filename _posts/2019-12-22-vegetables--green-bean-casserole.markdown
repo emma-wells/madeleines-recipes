@@ -6,7 +6,7 @@ categories: vegetables from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 cup mushroom soup
 * 3/4 cup milk
 * 1/8 teaspoon pepper

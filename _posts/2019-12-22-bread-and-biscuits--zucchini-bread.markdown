@@ -5,9 +5,8 @@ date:   2019-12-22 12:00:54 +0000
 categories: bread-and-biscuits from-grandma
 ---
 
-# Zucchini bread
-##From Grandma
-### Ingredients
+## From Grandma
+###Ingredients
 * 1 1/2 cup zucchini, grated
 * 2 eggs
 * 1/2 cup oil

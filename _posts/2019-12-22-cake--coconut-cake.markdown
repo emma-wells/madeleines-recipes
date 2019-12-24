@@ -6,7 +6,7 @@ categories: cake from-mom-and-posy-patch-chatter
 ---
 
 ## From Mom, and Posy Patch (chatter)
-### Ingredients
+###Ingredients
 * 3 cups sifted cake flour
 * 3 teaspoons baking powder
 * 1 teaspoon salt

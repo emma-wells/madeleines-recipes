@@ -6,8 +6,8 @@ categories: cake
 ---
 
 ## From ??
-### Cookie sheet or pan, 11-16 minutes at 350F
-### Ingredients
+###Cookie sheet or pan, 11-16 minutes at 350F
+###Ingredients
 * 1 yellow cake mix
 * 1 small instant vanilla pudding mix
 * 1 cup milk

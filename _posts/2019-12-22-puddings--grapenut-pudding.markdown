@@ -6,7 +6,7 @@ categories: puddings from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1/2 cup grapenut cereal
 * 1 1/2 pints milk
 * 2 eggs

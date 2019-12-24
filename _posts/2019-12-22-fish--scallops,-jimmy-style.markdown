@@ -6,7 +6,7 @@ categories: fish from-mom-via-jimmys-harborside-restaurant
 ---
 
 ## From Mom, via Jimmy's Harborside Restaurant
-### Ingredients
+###Ingredients
 * 2 pounds scallops
 * Sherry
 * 2 tablespoon dry breadcrumbs

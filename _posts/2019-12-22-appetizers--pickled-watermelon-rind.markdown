@@ -6,7 +6,7 @@ categories: appetizers from-mom-via-farmstead-magazine
 ---
 
 ## From Mom via Farmstead Magazine
-### Ingredients
+###Ingredients
 * 2 pounds watermelon rind
 * 2 cups vinegar
 * 1 teaspoon whole allspice

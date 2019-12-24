@@ -6,7 +6,7 @@ categories: cookies from-grandma
 ---
 
 ## From Grandma
-### Method
+###Method
 1. Cream 1 cup of sugar and 1/2 cup salad oil.
 2. Sift together:
 	1. 3 cups flour

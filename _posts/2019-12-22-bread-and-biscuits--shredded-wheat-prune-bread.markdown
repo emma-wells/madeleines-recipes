@@ -6,7 +6,7 @@ categories: bread-and-biscuits from-mom
 ---
 
 ## From Mom
-### Ingredients
+###Ingredients
 * 1 3/4 cups sifted flour
 * 2 teaspoons baking powder
 * 1 teaspoon cinnamon

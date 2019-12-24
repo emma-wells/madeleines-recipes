@@ -6,7 +6,7 @@ categories: appetizers from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 2 cups wheat chex cereal
 * 2 cups corn chex cereal
 * 2 cups rice chex cereal

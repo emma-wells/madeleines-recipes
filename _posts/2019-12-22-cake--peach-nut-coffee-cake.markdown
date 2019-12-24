@@ -6,7 +6,7 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 cup flour
 * 1 teaspoon cinnamon
 * 1/2 teaspoon baking soda

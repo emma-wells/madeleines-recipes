@@ -5,8 +5,7 @@ date:   2019-12-22 12:02:23 +0000
 categories: cookies from-grandma
 ---
 
-# Coffee walnut coconut drop
-##From Grandma
+## From Grandma
 
 Beat 1 whole egg and 1 egg yolk until light. Beat in 3/4 cup firmly packed brown sugar. Gradually beat in 1 tablespoon flour, 1 tablespoon instant coffee powder, 2 teaspoons soft butter.
 

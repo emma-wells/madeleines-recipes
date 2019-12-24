@@ -6,7 +6,7 @@ categories: pasta-and-rice from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 package elbow macaroni, cooked
 * 1/4 cup butter
 * 1/4 cup flour

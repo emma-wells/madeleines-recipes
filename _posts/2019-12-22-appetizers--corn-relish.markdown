@@ -6,7 +6,7 @@ categories: appetizers from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 cup white vinegar
 * 1/4 cup light corn syrup
 * 1/8 teaspoon black pepper

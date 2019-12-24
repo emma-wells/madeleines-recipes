@@ -6,7 +6,7 @@ categories: appetizers from-norma
 ---
 
 ## From Norma
-### Ingredients
+###Ingredients
 * 1 1/2 pounds ground chuck (hamburger)
 * 1 can refried beans
 * 1/2 package taco seasoning mix

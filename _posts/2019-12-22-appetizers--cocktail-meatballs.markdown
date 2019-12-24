@@ -6,7 +6,7 @@ categories: appetizers from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 pound hamburg
 * 1 egg
 * breadcrumbs

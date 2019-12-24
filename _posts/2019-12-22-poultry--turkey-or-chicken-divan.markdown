@@ -6,7 +6,7 @@ categories: poultry
 ---
 
 ## From ??
-### Ingredients
+###Ingredients
 * 8 slices cooked tirkey or chicken
 * 1 bunch fresh broccoli or 2 packages frozen
 * 1 teaspoon salt
@@ -16,7 +16,7 @@ categories: poultry
 
 Wash broccoli, peel off tough skin, and slice in half length-wise. Steam until barely tender, and arrange in the bottom of a large casserole dish.
 
-### Cream sauce
+###Cream sauce
 * 4 tablespoons butter
 * 4 tablespoons flour
 

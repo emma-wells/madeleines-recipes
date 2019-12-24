@@ -6,7 +6,7 @@ categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 1/2 cup uncooked cranberries
 * 1/3 cup vegetable oil
 * 1/2 cup granulated sugar

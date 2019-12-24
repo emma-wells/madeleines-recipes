@@ -5,8 +5,9 @@ date:   2019-12-22 12:06:24 +0000
 categories: meat from-grandma
 ---
 
-## From Grandma
-### Ingredients
+# Sausage rounds 
+##From Grandma
+###Ingredients
 * 1 pound bulk pork sausage
 * 1 egg, beaten
 * 1/3 cup soft breadcrumbs

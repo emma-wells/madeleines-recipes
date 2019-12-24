@@ -6,7 +6,7 @@ categories: pies from-grandma
 ---
 
 ## From Grandma
-### Bake at 325F, 45 minutes
+###Bake at 325F, 45 minutes
 
 Combine 2 cups fresh cranberries, 1/2 cup sugar, 1/2 cup nuts. Grease 10 inch pie plate and spread.
 

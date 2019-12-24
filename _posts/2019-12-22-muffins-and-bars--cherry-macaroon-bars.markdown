@@ -6,7 +6,7 @@ categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma
-### Pastry
+###Pastry
 * 1 1/2 cups flour
 * 3/4 cup Oleo
 * 4 1/2 teaspoons confectionary sugar
@@ -15,7 +15,7 @@ categories: muffins-and-bars from-grandma
 Mix the above ingredients until smooth. Spread in a greased 8x12 inch pan. Bake 20 minutes at 350F.
 
 
-### Topping
+###Topping
 
 
 Stir the following into 3 slightly beaten eggs:

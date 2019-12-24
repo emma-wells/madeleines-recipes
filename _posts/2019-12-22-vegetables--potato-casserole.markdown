@@ -6,7 +6,7 @@ categories: vegetables
 ---
 
 ## From ??
-### Ingredients
+###Ingredients
 * 1 2-pound package of hash brown frozen potatoes
 * 1 1/2 sticks Oleo (shortening)
 * 1 cup chopped onions

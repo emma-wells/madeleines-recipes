@@ -6,7 +6,7 @@ categories: puddings from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 cup sugar
 * 1 tablespoon butter
 * 3 eggs, separated

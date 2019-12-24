@@ -6,8 +6,8 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-### Bake at 350F, 45 minutes
-### Ingredients
+###Bake at 350F, 45 minutes
+###Ingredients
 * 2 cups flour
 * 1/2 cup oil
 * 2 eggs
