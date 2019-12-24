@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Magic cookie bars"
-date:   2019-12-22 12:04:27 +0000
-categories: muffins-and-bars
+date:   2019-12-22 12:04:49 +0000
+categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma

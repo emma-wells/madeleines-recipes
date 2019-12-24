@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Bacon and egg casserole"
-date:   2019-12-22 12:06:11 +0000
+date:   2019-12-22 12:06:33 +0000
 categories: meat
 ---
 

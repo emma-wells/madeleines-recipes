@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Easy party cookie recipe"
-date:   2019-12-22 12:02:09 +0000
-categories: cookies
+date:   2019-12-22 12:02:34 +0000
+categories: cookies from-grandma
 ---
 
 ## From Grandma

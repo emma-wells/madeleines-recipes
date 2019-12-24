@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Baked fruit pudding"
-date:   2019-12-22 12:04:43 +0000
-categories: puddings
+date:   2019-12-22 12:05:05 +0000
+categories: puddings from-grandma
 ---
 
 ## From Grandma

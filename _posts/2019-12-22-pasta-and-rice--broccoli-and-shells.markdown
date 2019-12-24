@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Broccoli and shells"
-date:   2019-12-22 12:04:01 +0000
-categories: pasta-and-rice
+date:   2019-12-22 12:04:23 +0000
+categories: pasta-and-rice from-mom
 ---
 
 ## From Mom

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Date bars"
-date:   2019-12-22 12:04:19 +0000
-categories: muffins-and-bars
+date:   2019-12-22 12:04:41 +0000
+categories: muffins-and-bars from-ellie-divirgilio
 ---
 
 ## From Ellie DiVirgilio

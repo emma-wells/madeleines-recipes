@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Impossible pie"
-date:   2019-12-22 12:00:53 +0000
-categories: pies
+date:   2019-12-22 12:01:18 +0000
+categories: pies from-grandma-ida-1987
 ---
 
 ## From Grandma, Ida 1987

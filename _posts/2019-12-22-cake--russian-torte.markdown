@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Russian torte"
-date:   2019-12-22 12:01:35 +0000
-categories: cake
+date:   2019-12-22 12:02:00 +0000
+categories: cake from-ethel-wheeler
 ---
 
 ## From Ethel Wheeler

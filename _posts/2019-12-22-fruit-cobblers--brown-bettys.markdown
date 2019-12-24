@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Brown bettys"
-date:   2019-12-22 12:02:40 +0000
-categories: fruit-cobblers
+date:   2019-12-22 12:03:05 +0000
+categories: fruit-cobblers from-grandma-via-irene-comeau
 ---
 
 ## From Grandma via Irene Comeau 

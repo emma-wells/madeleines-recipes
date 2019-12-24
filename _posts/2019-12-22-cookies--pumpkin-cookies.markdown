@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Pumpkin cookies"
-date:   2019-12-22 12:02:17 +0000
-categories: cookies
+date:   2019-12-22 12:02:42 +0000
+categories: cookies from-granda-and-luvtacuk
 ---
 
 ## From Granda and luvtacuk

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Eggplant and meatballs parmigiana"
-date:   2019-12-22 12:06:17 +0000
-categories: meat
+date:   2019-12-22 12:06:39 +0000
+categories: meat from-grandma
 ---
 
 ## From Grandma

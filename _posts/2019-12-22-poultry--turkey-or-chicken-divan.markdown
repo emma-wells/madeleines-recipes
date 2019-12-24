@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Turkey or chicken divan"
-date:   2019-12-22 12:00:16 +0000
+date:   2019-12-22 12:00:38 +0000
 categories: poultry
 ---
 

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Polly Bergen's chili"
-date:   2019-12-22 12:06:13 +0000
-categories: meat
+date:   2019-12-22 12:06:35 +0000
+categories: meat from-grandma
 ---
 
 ## From Grandma

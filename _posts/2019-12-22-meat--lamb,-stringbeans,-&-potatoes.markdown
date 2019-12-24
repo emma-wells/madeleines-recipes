@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Lamb, stringbeans, & potatoes"
-date:   2019-12-22 12:06:07 +0000
-categories: meat
+date:   2019-12-22 12:06:29 +0000
+categories: meat from-grandma
 ---
 
 ## From Grandma

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Baked rhubarb sponge"
-date:   2019-12-22 12:01:19 +0000
-categories: cake
+date:   2019-12-22 12:01:44 +0000
+categories: cake from-mom-via-womans-day
 ---
 
 ## From Mom via Woman's Day

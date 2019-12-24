@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Tortilla soup"
-date:   2019-12-22 12:03:12 +0000
-categories: soups
+date:   2019-12-22 12:03:37 +0000
+categories: soups from-mom
 ---
 
 ## From Mom

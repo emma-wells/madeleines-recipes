@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Chicken Diane"
-date:   2019-12-22 12:00:07 +0000
+date:   2019-12-22 12:00:29 +0000
 categories: poultry
 ---
 

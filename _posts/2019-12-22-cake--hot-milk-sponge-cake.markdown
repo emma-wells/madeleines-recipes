@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Hot milk sponge cake"
-date:   2019-12-22 12:01:17 +0000
-categories: cake
+date:   2019-12-22 12:01:42 +0000
+categories: cake from-mom
 ---
 
 # Hot-milk sponge cake

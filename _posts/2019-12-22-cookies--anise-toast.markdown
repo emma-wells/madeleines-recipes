@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Anise toast"
-date:   2019-12-22 12:02:33 +0000
-categories: cookies
+date:   2019-12-22 12:02:58 +0000
+categories: cookies from-ann
 ---
 
 ## From Ann

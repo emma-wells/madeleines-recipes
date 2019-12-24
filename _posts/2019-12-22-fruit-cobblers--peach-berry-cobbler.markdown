@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Peach-berry cobbler"
-date:   2019-12-22 12:02:49 +0000
-categories: fruit-cobblers
+date:   2019-12-22 12:03:14 +0000
+categories: fruit-cobblers from-mom-via-womans-day
 ---
 
 ## From Mom, via Woman's Day

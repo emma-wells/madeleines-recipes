@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Creamy purple plum mold"
-date:   2019-12-22 12:04:38 +0000
-categories: puddings
+date:   2019-12-22 12:05:00 +0000
+categories: puddings from-mom-via-chat
 ---
 
 ## From Mom via Chat

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Magic fruit cake"
-date:   2019-12-22 12:01:14 +0000
-categories: cake
+date:   2019-12-22 12:01:39 +0000
+categories: cake from-mom-via-pink-castle
 ---
 
 ## From Mom, via Pink Castle

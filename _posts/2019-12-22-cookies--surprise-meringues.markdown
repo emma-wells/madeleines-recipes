@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Surprise meringues"
-date:   2019-12-22 12:02:19 +0000
-categories: cookies
+date:   2019-12-22 12:02:44 +0000
+categories: cookies from-grandma
 ---
 
 ## From Grandma

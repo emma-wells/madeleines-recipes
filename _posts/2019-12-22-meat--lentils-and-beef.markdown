@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Lentils and beef"
-date:   2019-12-22 12:06:12 +0000
-categories: meat
+date:   2019-12-22 12:06:34 +0000
+categories: meat from-grandma
 ---
 
 ## From Grandma

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Fig squares"
-date:   2019-12-22 12:04:33 +0000
-categories: muffins-and-bars
+date:   2019-12-22 12:04:55 +0000
+categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma

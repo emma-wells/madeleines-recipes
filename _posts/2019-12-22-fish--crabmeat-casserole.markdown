@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Crabmeat casserole"
-date:   2019-12-22 12:03:02 +0000
-categories: fish
+date:   2019-12-22 12:03:27 +0000
+categories: fish from-grandma
 ---
 
 ## From Grandma

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Scalloped oysters"
-date:   2019-12-22 12:03:01 +0000
-categories: fish
+date:   2019-12-22 12:03:26 +0000
+categories: fish from-grandma
 ---
 
 ## From Grandma

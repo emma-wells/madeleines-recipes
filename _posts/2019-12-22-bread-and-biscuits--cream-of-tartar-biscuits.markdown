@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Cream of tartar biscuits II"
-date:   2019-12-22 12:00:30 +0000
-categories: bread-and-biscuits
+date:   2019-12-22 12:00:52 +0000
+categories: bread-and-biscuits from-grandma
 ---
 
 # Cream of tartar biscuits

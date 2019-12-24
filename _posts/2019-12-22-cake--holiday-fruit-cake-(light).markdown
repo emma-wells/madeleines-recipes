@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Holiday fruit cake (light)"
-date:   2019-12-22 12:01:53 +0000
+date:   2019-12-22 12:02:18 +0000
 categories: cake
 ---
 

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Gingerbread cake"
-date:   2019-12-22 12:01:29 +0000
-categories: cake
+date:   2019-12-22 12:01:54 +0000
+categories: cake from-grandma
 ---
 
 ## From Grandma

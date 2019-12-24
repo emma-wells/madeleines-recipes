@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Seven-layer squares"
-date:   2019-12-22 12:04:32 +0000
-categories: muffins-and-bars
+date:   2019-12-22 12:04:54 +0000
+categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma

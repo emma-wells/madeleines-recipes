@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Bean soup"
-date:   2019-12-22 12:03:13 +0000
-categories: soups
+date:   2019-12-22 12:03:38 +0000
+categories: soups from-grandma
 ---
 
 ## From Grandma

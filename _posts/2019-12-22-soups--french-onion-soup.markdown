@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "French onion soup"
-date:   2019-12-22 12:03:30 +0000
-categories: soups
+date:   2019-12-22 12:03:55 +0000
+categories: soups from-rose-marie-fluet
 ---
 
 ## From Rose Marie Fluet

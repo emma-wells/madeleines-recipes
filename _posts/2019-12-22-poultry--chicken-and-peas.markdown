@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Chicken and peas"
-date:   2019-12-22 12:00:03 +0000
-categories: poultry
+date:   2019-12-22 12:00:25 +0000
+categories: poultry from-grandma
 ---
 
 ## From Grandma

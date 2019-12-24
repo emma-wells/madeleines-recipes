@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Deviled egg mold"
-date:   2019-12-22 12:03:00 +0000
-categories: fish
+date:   2019-12-22 12:03:25 +0000
+categories: fish from-grandma
 ---
 
 ## From Grandma

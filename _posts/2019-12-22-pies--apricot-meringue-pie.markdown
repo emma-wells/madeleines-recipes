@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Apricot meringue pie"
-date:   2019-12-22 12:01:06 +0000
+date:   2019-12-22 12:01:31 +0000
 categories: pies
 ---
 

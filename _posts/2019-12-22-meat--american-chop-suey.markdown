@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "American chop suey"
-date:   2019-12-22 12:06:10 +0000
-categories: meat
+date:   2019-12-22 12:06:32 +0000
+categories: meat from-grandma
 ---
 
 ## From Grandma

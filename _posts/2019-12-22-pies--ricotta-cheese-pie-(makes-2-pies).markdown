@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Ricotta cheese pie"
-date:   2019-12-22 12:00:47 +0000
-categories: pies
+date:   2019-12-22 12:01:12 +0000
+categories: pies from-grandma
 ---
 
 # Ricotta cheese pie (makes 2 pies)

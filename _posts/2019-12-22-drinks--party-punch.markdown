@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Party punch"
-date:   2019-12-22 12:06:20 +0000
+date:   2019-12-22 12:06:42 +0000
 categories: drinks
 ---
 

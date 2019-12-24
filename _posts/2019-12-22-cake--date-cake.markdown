@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Date cake"
-date:   2019-12-22 12:01:27 +0000
-categories: cake
+date:   2019-12-22 12:01:52 +0000
+categories: cake from-mom
 ---
 
 ## From Mom

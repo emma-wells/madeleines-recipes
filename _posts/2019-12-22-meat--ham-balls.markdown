@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Ham balls"
-date:   2019-12-22 12:06:09 +0000
-categories: meat
+date:   2019-12-22 12:06:31 +0000
+categories: meat from-grandma
 ---
 
 ## From Grandma

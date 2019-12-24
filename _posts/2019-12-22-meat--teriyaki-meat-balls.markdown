@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Teriyaki meat balls"
-date:   2019-12-22 12:06:19 +0000
+date:   2019-12-22 12:06:41 +0000
 categories: meat
 ---
 

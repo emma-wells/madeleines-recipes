@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Taco salad"
-date:   2019-12-22 12:05:06 +0000
+date:   2019-12-22 12:05:28 +0000
 categories: salads
 ---
 

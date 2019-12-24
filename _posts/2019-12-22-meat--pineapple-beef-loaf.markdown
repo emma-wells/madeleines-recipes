@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Pineapple beef loaf"
-date:   2019-12-22 12:06:03 +0000
-categories: meat
+date:   2019-12-22 12:06:25 +0000
+categories: meat from-grandma
 ---
 
 ## From Grandma

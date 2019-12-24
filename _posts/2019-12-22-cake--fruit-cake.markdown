@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Fruit cake"
-date:   2019-12-22 12:01:26 +0000
-categories: cake
+date:   2019-12-22 12:01:51 +0000
+categories: cake from-mom-via-firemans-wife
 ---
 
 ## From Mom, via Fireman's Wife

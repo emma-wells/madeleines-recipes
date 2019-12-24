@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Bacon tomato cups"
-date:   2019-12-22 12:05:41 +0000
-categories: appetizers
+date:   2019-12-22 12:06:03 +0000
+categories: appetizers from-grandma
 ---
 
 ## From Grandma

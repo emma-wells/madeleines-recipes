@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Cornish game hens and wild rice"
-date:   2019-12-22 12:00:19 +0000
-categories: poultry
+date:   2019-12-22 12:00:41 +0000
+categories: poultry from-grandma
 ---
 
 ## From Grandma

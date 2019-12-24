@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Crabmeat and rice au gratin"
-date:   2019-12-22 12:02:50 +0000
-categories: fish
+date:   2019-12-22 12:03:15 +0000
+categories: fish from-grandma
 ---
 
 ## From Grandma

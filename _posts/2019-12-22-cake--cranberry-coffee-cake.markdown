@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Cranberry coffee cake"
-date:   2019-12-22 12:01:38 +0000
-categories: cake
+date:   2019-12-22 12:02:03 +0000
+categories: cake from-grandma
 ---
 
 ## From Grandma

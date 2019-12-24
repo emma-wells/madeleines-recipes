@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Italian chicken"
-date:   2019-12-22 12:00:24 +0000
-categories: poultry
+date:   2019-12-22 12:00:46 +0000
+categories: poultry from-grandma
 ---
 
 ## From Grandma

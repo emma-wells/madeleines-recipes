@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Rice pilaf with spinach"
-date:   2019-12-22 12:03:59 +0000
+date:   2019-12-22 12:04:21 +0000
 categories: pasta-and-rice
 ---
 

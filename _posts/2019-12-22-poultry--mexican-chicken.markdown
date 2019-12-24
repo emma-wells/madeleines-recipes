@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Mexican chicken"
-date:   2019-12-22 12:00:11 +0000
-categories: poultry
+date:   2019-12-22 12:00:33 +0000
+categories: poultry from-mom
 ---
 
 ## From Mom??

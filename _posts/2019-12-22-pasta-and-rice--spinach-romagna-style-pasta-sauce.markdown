@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Spinach Romagna style pasta sauce"
-date:   2019-12-22 12:04:00 +0000
-categories: pasta-and-rice
+date:   2019-12-22 12:04:22 +0000
+categories: pasta-and-rice from-mom-kumon-on-the-back!
 ---
 
 ## From Mom (Kumon on the back!)

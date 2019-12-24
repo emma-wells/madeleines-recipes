@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Sandies "
-date:   2019-12-22 12:02:36 +0000
-categories: cookies
+date:   2019-12-22 12:03:01 +0000
+categories: cookies from-ann
 ---
 
 # Sandies

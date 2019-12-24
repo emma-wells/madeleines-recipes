@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Toll house cookies"
-date:   2019-12-22 12:01:59 +0000
-categories: cookies
+date:   2019-12-22 12:02:24 +0000
+categories: cookies from-grandma
 ---
 
 ## From Grandma

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Brisket in marinade"
-date:   2019-12-22 12:06:04 +0000
+date:   2019-12-22 12:06:26 +0000
 categories: meat
 ---
 

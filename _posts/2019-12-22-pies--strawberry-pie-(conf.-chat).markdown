@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Strawberry pie"
-date:   2019-12-22 12:00:51 +0000
-categories: pies
+date:   2019-12-22 12:01:16 +0000
+categories: pies from-mom
 ---
 
 # Strawberry pie (conf. chat)

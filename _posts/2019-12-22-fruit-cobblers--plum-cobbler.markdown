@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Plum cobbler"
-date:   2019-12-22 12:02:48 +0000
-categories: fruit-cobblers
+date:   2019-12-22 12:03:13 +0000
+categories: fruit-cobblers from-grandma
 ---
 
 ## From Grandma

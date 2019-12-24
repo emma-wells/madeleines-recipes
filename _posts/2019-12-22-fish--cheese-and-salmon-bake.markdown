@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Cheese and salmon bake"
-date:   2019-12-22 12:02:58 +0000
-categories: fish
+date:   2019-12-22 12:03:23 +0000
+categories: fish from-grandma
 ---
 
 ## From Grandma

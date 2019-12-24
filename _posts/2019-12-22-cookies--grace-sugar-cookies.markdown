@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Grace sugar cookies"
-date:   2019-12-22 12:02:14 +0000
-categories: cookies
+date:   2019-12-22 12:02:39 +0000
+categories: cookies from-grandma
 ---
 
 ## From Grandma

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Eggnog"
-date:   2019-12-22 12:06:22 +0000
-categories: drinks
+date:   2019-12-22 12:06:44 +0000
+categories: drinks from-mom-from-carl-from-fannie-farmer
 ---
 
 ## From Mom (From Carl? From Fannie Farmer?)

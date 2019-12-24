@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Pineapple rightside up cake"
-date:   2019-12-22 12:01:10 +0000
-categories: cake
+date:   2019-12-22 12:01:35 +0000
+categories: cake from-grandma
 ---
 
 ## From Grandma

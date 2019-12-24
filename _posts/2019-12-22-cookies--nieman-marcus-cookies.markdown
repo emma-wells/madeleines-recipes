@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Nieman Marcus cookies"
-date:   2019-12-22 12:02:25 +0000
-categories: cookies
+date:   2019-12-22 12:02:50 +0000
+categories: cookies from-grandma
 ---
 
 ## From Grandma

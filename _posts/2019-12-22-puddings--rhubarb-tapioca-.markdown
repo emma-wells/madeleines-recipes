@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Rhubarb tapioca"
-date:   2019-12-22 12:04:42 +0000
-categories: puddings
+date:   2019-12-22 12:05:04 +0000
+categories: puddings from-mom-via-womens-day
 ---
 
 ## From Mom via Women's Day

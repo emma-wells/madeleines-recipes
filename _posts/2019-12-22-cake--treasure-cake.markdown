@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Treasure cake"
-date:   2019-12-22 12:01:40 +0000
-categories: cake
+date:   2019-12-22 12:02:05 +0000
+categories: cake from-mom-spry-co
 ---
 
 ## From Mom, Spry co.

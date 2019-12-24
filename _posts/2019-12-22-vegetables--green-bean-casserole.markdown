@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Green bean casserole"
-date:   2019-12-22 12:05:15 +0000
-categories: vegetables
+date:   2019-12-22 12:05:37 +0000
+categories: vegetables from-grandma
 ---
 
 ## From Grandma

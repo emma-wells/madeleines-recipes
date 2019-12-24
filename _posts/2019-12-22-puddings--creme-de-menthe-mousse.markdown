@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Creme de menthe mousse"
-date:   2019-12-22 12:04:37 +0000
-categories: puddings
+date:   2019-12-22 12:04:59 +0000
+categories: puddings from-mom
 ---
 
 ## From Mom

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Lemon dessert"
-date:   2019-12-22 12:04:41 +0000
-categories: puddings
+date:   2019-12-22 12:05:03 +0000
+categories: puddings from-grandma
 ---
 
 ## From Grandma

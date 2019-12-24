@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Pfeffernusse"
-date:   2019-12-22 12:02:20 +0000
-categories: cookies
+date:   2019-12-22 12:02:45 +0000
+categories: cookies from-naomi
 ---
 
 # Pfeffernüsse

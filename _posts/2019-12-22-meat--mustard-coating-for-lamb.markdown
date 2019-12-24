@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Mustard coating for lamb"
-date:   2019-12-22 12:06:14 +0000
-categories: meat
+date:   2019-12-22 12:06:36 +0000
+categories: meat from-grandma
 ---
 
 ## From Grandma

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "New England pudding"
-date:   2019-12-22 12:04:49 +0000
-categories: puddings
+date:   2019-12-22 12:05:11 +0000
+categories: puddings from-grandma-via-chat
 ---
 
 ## From Grandma via chat

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Rhubarb crisp"
-date:   2019-12-22 12:02:42 +0000
-categories: fruit-cobblers
+date:   2019-12-22 12:03:07 +0000
+categories: fruit-cobblers from-grandma
 ---
 
 ## From Grandma

@@ -2,12 +2,312 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b4bb873-588a-4da9-81d9-8d47f2f6e392" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/TODO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_layouts/recipe_post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carrot-bran bread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--bacon-tomato-cups.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--bean-dip.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--bread-cheese-squares.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--cheesettes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--chex-party-mix-microwave-recipe.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--chex-party-mix.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--cocktail-meatballs.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--corn-relish.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--crab-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--cranberry-mold.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--eggplant-antipasto.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--flavored-crackers.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--green-tomato-pickles.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--herb-curry-dip.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--mexican-dip.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--orzo-pilaf.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--pickled-watermelon-rind.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--quiche-lorraine.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--scrabble.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--spinach-balls.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--watermelon-rind-pickles.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-appetizers--welsh-rabbit.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bread--whole-wheat-dough.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bread--zucchini-bread.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bread-and-biscuits--brown-bread.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bread-and-biscuits--casserole-dill-bread.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bread-and-biscuits--corn-bread.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bread-and-biscuits--cream-of-tartar-biscuits.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bread-and-biscuits--english-muffins.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bread-and-biscuits--perfect-popovers.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bread-and-biscuits--popovers.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-bread-and-biscuits--shredded-wheat-prune-bread.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-breakfast--chunky-granola.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-breakfast--currant-oat-waffles.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-breakfast--victorian-delight-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--apple-+-walnut-cupcakes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--baked-rhubarb-sponge.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--blueberry-sour-cream-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--coconut-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--cranberry-bread.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--cranberry-coffee-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--cream-cheese-cupcakes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--date-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--dream-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--eggnog-quick-bread.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--fruit-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--gingerbread-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--holiday-fruit-cake-(light).markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--hot-milk-sponge-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--jelly-roll.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--kahlua-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--lemon-tea-cakes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--lemon-torte.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--magic-fruit-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--molasses-cupcakes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--old-fashioned-marble-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--peach-nut-coffee-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--peanut-butter-cupcakes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--pecan-oat-cakes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--pineapple-rightside-up-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--pistachio-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--pound-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--pumpkin-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--ricotta-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--russian-torte.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--sour-cream-coffee-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--sour-cream-pound-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--spumoni-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--streusel-coffee-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--tea-party-loaf.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--torte.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--treasure-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--wowie-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cake--yummy-chocolate-cake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--angelloni-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--anise-toast.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--bake-to-nature-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--blueberry-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--cherry-winks.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--chewy-oatmeal-fruit-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--christmas-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--coffee-walnut-coconut-drop.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--cranberry-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--drop-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--easy-party-cookie-recipe.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--ginger-crackles.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--gingerbread-men.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--grace-sugar-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--grammy's-gingerbread-men.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--italian-chocolate-spice-drops.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--italian-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--jumbo-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--lemon-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--madeleines.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--mince-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--molasses-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--nieman-marcus-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--pfeffernüsse.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--pumpkin-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--quick-lemon-crisps.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--raisin-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--sandies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--sesame-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--soft-spicy-hermit.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--spice-biscotti.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--surprise-meringues.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--toll-house-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-cookies--versatile-butter-cookies.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-drinks--cranberry-punch.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-drinks--eggnog.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-drinks--minted-fizz.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-drinks--party-punch.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--baked-corn-and-oysters.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--cheese-and-salmon-bake.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--crabmeat-and-rice-au-gratin.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--crabmeat-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--deviled-egg-mold.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--fish-cakes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--fish-tacos.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--fried-crab-cakes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--langostino:clam-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--marinade-for-fish.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--mussels-in-wine-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--parade-magazine-dish.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--scalloped-oysters.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--scallops,-jimmy-style.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--stir-fried-shrimp-&amp;-pea-pods.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--susan's-tuna-treat.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--tuna---mushroom-roll-up.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fish--tuna-chop-suey.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fruit-cobblers--brown-bettys.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fruit-cobblers--peach-berry-cobbler.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fruit-cobblers--peach-dumplings.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fruit-cobblers--plum-cobbler.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-fruit-cobblers--rhubarb-crisp.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--american-chop-suey.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--beef-porcupines.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--brisket-in-marinade.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--cheddar-cheese-hash.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--corned-beef-stuffed-baked-potatoes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--cosy-casserole-dish.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--egg-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--eggplant-and-meatballs-parmigiana.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--ham-balls.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--hamburger-eggplant-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--italian-pancake-dinner.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--lamb,-stringbeans,-&amp;-potatoes.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--lentils-and-beef.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--mustard-coating-for-lamb.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--pineapple-beef-loaf.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--polly-bergen's-chili.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--rice-torte.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--sausage-and-macaroni-dinner.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--sausage-rounds.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--stuffing.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--swedish-meatballs-in-caper-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-meat--teriyaki-meat-balls.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--banana-muffins.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--cheesecake-squares.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--cherry-crunch.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--cherry-macaroon-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--congo-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--corn-muffins.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--country-squares.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--cranberry-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--czechoslovakian-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--date-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--date-squares.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--fig-squares.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--honey-oat-muffins.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--magic-cookie-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--manadnock-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--old-fashioned-oatmeal-muffins.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--orange-honey-muffins.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--pumpkin-cranberry-muffins.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--scotchy-peanut-bars.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-muffins-and-bars--seven-layer-squares.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-other-deserts--blueberry-jam.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-rice--bow-tie-macaroni.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-rice--broccoli-and-shells.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-rice--creamy-risotto-primavera.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-rice--gorgonzola-cheese-pasta.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-rice--lemony-penne-&amp;-broccoli.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-rice--macaroni-and-cheese.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-rice--macaroni-loaf.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-rice--pastitso.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-rice--penne-in-cream-sauce-with-sausage.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-rice--pesto.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-rice--rice-pilaf-with-spinach.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-rice--spaghetti-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-rice--spinach-romagna-style-pasta-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pasta-and-rice--tomato-sauce.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--apricot-meringue-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--broken-glass.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--butter-pecan-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--carrot-pecan-crunch-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--cherry-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--cranberry-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--custard-pie-filling.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--custard-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--deep-dish-fresh-peach-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--easter-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--frosted-daiquiri-pie---toll-house.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--impossible-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--kentucky-pecan-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--lemon-meringue-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--mile-high-strawberry-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--oatmeal-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--pastry-crust-+-cherry-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--peach-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--peanut-butter-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--pineapple-cream-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--plum-peachy-deep-dish-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--ricotta-cheese-pie-(makes-2-pies).markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--shoofly-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--strawberry-pie-(conf.-chat).markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-pies--velvety-custard-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--baked-chicken-wings.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--chicken-and-peas.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--chicken-campagnola.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--chicken-cheese-tortilla.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--chicken-curry-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--chicken-diane.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--chicken-harvester.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--chicken-la-fiore.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--chicken-pot-pie.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--chicken-tetrazzini.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--citrus-chicken-stir-fry.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--cornish-game-hens-and-wild-rice.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--cranberry-chicken-exotic.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--crystal-hobmail's-fried-chicken.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--italian-chicken.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--mexican-chicken.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--sherried-chicken-and-rice.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--stuffing.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--turkey-or-chicken-divan.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-poultry--vaguely-tandoori-marinade.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--applesauce-pudding.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--baked-fruit-pudding.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--corn-pudding.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--creamy-purple-plum-mold.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--creme-de-menthe-mousse.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--dessert.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--grapenut-pudding.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--greek-rice-pudding.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--indian-pudding.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--lemon-dessert.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--new-england-pudding.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--pineapple-rise.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--rhubarb-tapioca-.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--rhubarb-whip.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-puddings--steamed-pumpkin-pudding.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-salads--jello-and-beet-salad.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-salads--pasta-and-bean-salad.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-salads--taco-salad.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-soups--bean-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-soups--brie's-butternut-squash-bisque.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-soups--butternut-squash,-pear-and-orange-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-soups--french-onion-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-soups--hearty-corn-chowder.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-soups--sausage-and-zucchini-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-soups--tortilla-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-soups--vegetable-soup.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-vegetables--fresh-vegetable-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-vegetables--green-bean-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-vegetables--potato-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-vegetables--vegetable-rice-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-vegetables--warrior's-casserole.markdown" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-12-22-vegetables--zucchini-potato-frittata.markdown" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Appetizers/Flavored crackers/Flavored crackers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/recipes/Appetizers/Flavored crackers/Flavored crackers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Carrot, pineapple and nut bread/Carrot, pineapple, nut bread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Carrot-bran bread/Carrot-bran bread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Cheese-filled raisin nut bread/Cheese filled raisin nut bread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Chocolate bread/Chocolate bread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Cranberry pumpkin bread/Cranberry pumpkin bread homemade with love.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Date oat bread/Date oat bread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Lemon-nut bread/Lemon nut bread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Orange wholewheat bread/Orange whole wheat bread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Pineapple-date bread/Pineapple date bread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Prune-pecan bread/Prune-pecan bread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Rhubarb bread/Rhubarb bread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Whole wheat dough/Whole-wheat dough.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Whole wheat dough/whole wheat dough.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Whole wheat dough/whole wheat dough2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Zucchini bread II/Zucchini bread.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipes/Bread/Zucchini bread/Zucchini bread.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rename_recipes.py" beforeDir="false" afterPath="$PROJECT_DIR$/rename_recipes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,6 +319,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -106,32 +407,36 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="0" y="78" key="FileDocumentManager.FileCacheConflict/0.23.1440.877@0.23.1440.877" timestamp="1577189948445" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1577123971132">
+    <state width="1398" height="375" key="GridCell.Tab.0.bottom" timestamp="1577209565811">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577123971132" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1577123971131">
+    <state width="1398" height="375" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577209565811" />
+    <state width="1398" height="375" key="GridCell.Tab.0.center" timestamp="1577209565811">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1577123971131" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1577123971130">
+    <state width="1398" height="375" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1577209565811" />
+    <state width="1398" height="375" key="GridCell.Tab.0.left" timestamp="1577209565810">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1577123971130" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1577123971131">
+    <state width="1398" height="375" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1577209565810" />
+    <state width="1398" height="375" key="GridCell.Tab.0.right" timestamp="1577209565811">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1577123971131" />
+    <state width="1398" height="375" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1577209565811" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1577101827772">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1577101827772" />
-    <state x="375" y="225" width="689" height="472" key="find.popup" timestamp="1577121957194">
+    <state x="375" y="225" width="689" height="472" key="find.popup" timestamp="1577199273228">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="375" y="225" width="689" height="472" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1577121957194" />
+    <state x="375" y="225" width="689" height="472" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1577199273228" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1577204276058">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1577204276058" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/top_secret$rename_recipes.coverage" NAME="rename_recipes Coverage Results" MODIFIED="1577123971120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/top_secret$rename_recipes.coverage" NAME="rename_recipes Coverage Results" MODIFIED="1577209565798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

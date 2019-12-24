@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Velvety custard pie"
-date:   2019-12-22 12:00:45 +0000
-categories: pies
+date:   2019-12-22 12:01:10 +0000
+categories: pies from-grandma
 ---
 
 ## From Grandma

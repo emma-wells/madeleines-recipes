@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Penne in cream sauce with sausage"
-date:   2019-12-22 12:03:49 +0000
-categories: pasta-and-rice
+date:   2019-12-22 12:04:11 +0000
+categories: pasta-and-rice from-grandma
 ---
 
 ## From Grandma

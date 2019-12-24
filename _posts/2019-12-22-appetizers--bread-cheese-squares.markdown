@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Bread-cheese squares"
-date:   2019-12-22 12:05:37 +0000
+date:   2019-12-22 12:05:59 +0000
 categories: appetizers
 ---
 

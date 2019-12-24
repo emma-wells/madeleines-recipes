@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Susan's tuna treat"
-date:   2019-12-22 12:03:07 +0000
-categories: fish
+date:   2019-12-22 12:03:32 +0000
+categories: fish from-grandma
 ---
 
 ## From Grandma

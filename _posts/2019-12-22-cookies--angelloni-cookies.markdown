@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Angelloni cookies"
-date:   2019-12-22 12:02:35 +0000
-categories: cookies
+date:   2019-12-22 12:03:00 +0000
+categories: cookies from-mom-via-annette
 ---
 
 ## From Mom via Annette

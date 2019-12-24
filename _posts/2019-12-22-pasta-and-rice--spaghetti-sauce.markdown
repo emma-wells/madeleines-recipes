@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Spaghetti sauce"
-date:   2019-12-22 12:03:53 +0000
-categories: pasta-and-rice
+date:   2019-12-22 12:04:15 +0000
+categories: pasta-and-rice from-grandma
 ---
 
 ## From Grandma

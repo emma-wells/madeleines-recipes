@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Zucchini potato frittata"
-date:   2019-12-22 12:05:21 +0000
-categories: vegetables
+date:   2019-12-22 12:05:43 +0000
+categories: vegetables from-mom
 ---
 
 ## From Mom

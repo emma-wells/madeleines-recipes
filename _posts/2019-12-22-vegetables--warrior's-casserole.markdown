@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Warrior's casserole"
-date:   2019-12-22 12:05:22 +0000
-categories: vegetables
+date:   2019-12-22 12:05:44 +0000
+categories: vegetables from-grandma
 ---
 
 ## From Grandma

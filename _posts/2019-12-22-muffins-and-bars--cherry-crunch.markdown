@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Cherry crunch"
-date:   2019-12-22 12:04:34 +0000
-categories: muffins-and-bars
+date:   2019-12-22 12:04:56 +0000
+categories: muffins-and-bars from-mom
 ---
 
 ## From Mom

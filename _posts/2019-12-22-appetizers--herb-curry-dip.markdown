@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Herb curry dip"
-date:   2019-12-22 12:05:33 +0000
+date:   2019-12-22 12:05:55 +0000
 categories: appetizers
 ---
 

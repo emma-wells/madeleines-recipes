@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Hearty corn chowder"
-date:   2019-12-22 12:03:14 +0000
-categories: soups
+date:   2019-12-22 12:03:39 +0000
+categories: soups from-grandma
 ---
 
 ## From Grandma

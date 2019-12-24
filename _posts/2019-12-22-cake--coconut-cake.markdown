@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Coconut cake"
-date:   2019-12-22 12:01:20 +0000
-categories: cake
+date:   2019-12-22 12:01:45 +0000
+categories: cake from-mom-and-posy-patch-chatter
 ---
 
 ## From Mom, and Posy Patch (chatter)

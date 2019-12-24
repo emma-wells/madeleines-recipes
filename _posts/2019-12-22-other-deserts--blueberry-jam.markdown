@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Blueberry jam"
-date:   2019-12-22 12:05:10 +0000
+date:   2019-12-22 12:05:32 +0000
 categories: other-deserts
 ---
 

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Coffee waltnut coconut drop"
-date:   2019-12-22 12:01:58 +0000
-categories: cookies
+date:   2019-12-22 12:02:23 +0000
+categories: cookies from-grandma
 ---
 
 # Coffee walnut coconut drop

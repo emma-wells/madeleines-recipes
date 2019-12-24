@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Cranberry mold"
-date:   2019-12-22 12:05:40 +0000
-categories: appetizers
+date:   2019-12-22 12:06:02 +0000
+categories: appetizers from-grandma
 ---
 
 ## From Grandma

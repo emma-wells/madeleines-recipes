@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Pastry crust + cherry pie"
-date:   2019-12-22 12:00:59 +0000
-categories: pies
+date:   2019-12-22 12:01:24 +0000
+categories: pies from-mom
 ---
 
 # Pastry crust + Cherry pie

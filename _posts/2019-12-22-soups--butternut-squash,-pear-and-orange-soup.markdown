@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Butternut squash, pear, and orange soup"
-date:   2019-12-22 12:03:10 +0000
-categories: soups
+date:   2019-12-22 12:03:35 +0000
+categories: soups from-grandma
 ---
 
 # Butternut squash, pear and orange soup

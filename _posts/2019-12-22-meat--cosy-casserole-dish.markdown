@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Cosy casserole dish"
-date:   2019-12-22 12:06:08 +0000
-categories: meat
+date:   2019-12-22 12:06:30 +0000
+categories: meat from-grandma
 ---
 
 ## From Grandma

@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Cheesecake squares"
-date:   2019-12-22 12:04:21 +0000
+date:   2019-12-22 12:04:43 +0000
 categories: muffins-and-bars
 ---
 

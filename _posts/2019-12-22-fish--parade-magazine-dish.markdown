@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Parade magazine dish"
-date:   2019-12-22 12:02:56 +0000
-categories: fish
+date:   2019-12-22 12:03:21 +0000
+categories: fish from-grandma
 ---
 
 ## From Grandma

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Crystal Hobmail's fried chicken"
-date:   2019-12-22 12:00:23 +0000
-categories: poultry
+date:   2019-12-22 12:00:45 +0000
+categories: poultry from-grandma
 ---
 
 ## From Grandma

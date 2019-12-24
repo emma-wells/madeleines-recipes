@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Popovers"
-date:   2019-12-22 12:00:36 +0000
-categories: bread-and-biscuits
+date:   2019-12-22 12:01:00 +0000
+categories: bread-and-biscuits from-grandma
 ---
 
 ## From Grandma

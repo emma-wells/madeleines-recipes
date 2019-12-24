@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Pesto"
-date:   2019-12-22 12:04:06 +0000
-categories: pasta-and-rice
+date:   2019-12-22 12:04:28 +0000
+categories: pasta-and-rice from-grandma
 ---
 
 ## From Grandma

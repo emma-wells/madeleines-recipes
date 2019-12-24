@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Dream cake"
-date:   2019-12-22 12:01:25 +0000
+date:   2019-12-22 12:01:50 +0000
 categories: cake
 ---
 

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Marinade for fish"
-date:   2019-12-22 12:02:59 +0000
-categories: fish
+date:   2019-12-22 12:03:24 +0000
+categories: fish from-grandma
 ---
 
 ## From Grandma

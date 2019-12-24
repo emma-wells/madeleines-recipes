@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Italian pancake dinner"
-date:   2019-12-22 12:06:05 +0000
-categories: meat
+date:   2019-12-22 12:06:27 +0000
+categories: meat from-grandma
 ---
 
 ## From Grandma
