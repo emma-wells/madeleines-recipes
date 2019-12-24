@@ -7,12 +7,12 @@ import re
 
 
 def _sentence_to_snake(s):
-    return s.lower().replace(' ', '-')
+    return s.lower().replace(' ', '-').replace(',', '')
 
 
 def _parse_category(s):
     return s.lower().replace(' ', '-').replace('(', '').replace(')', '').replace(',', '').replace(
-        '?', '').replace('.', '').replace("'", '').strip()
+        '?', '').replace(',', '').replace('.', '').replace("'", '').strip('- \n')
 
 
 def _extract_name(content, name):
@@ -50,6 +50,7 @@ def main():
     for i, recipe_path in enumerate(recipes[::-1]):
         _, category, name, file_name = recipe_path.split('/')
         ext = 'txt' if file_name.endswith('txt') else 'md'
+
         new_category = _parse_category(category)
         categories = [category]
         new_file_name = "2019-12-22-" + new_category + '--' + _sentence_to_snake(file_name).replace(
@@ -68,7 +69,7 @@ def main():
                 if '##' in line and 'From' in line]
              if len(_parse_category(cat)) > 0
              ])
-        print(categories)
+        # print(categories)
         header = textwrap.dedent(f"""
         ---
         layout: recipe_post
@@ -77,9 +78,9 @@ def main():
         categories: {' '.join(_parse_category(c) for c in categories)}
         ---
         """).lstrip()
-        print(category, name, new_file_name, file_name)
+        # print(category, name, new_file_name, file_name)
 
-        print(header)
+        # print(header)
         extracted_name = _extract_name(content, name)
         new_content = header + "\n" + _tidy_content(content.replace(f'#{extracted_name}', '').lstrip())
 
@@ -89,14 +90,14 @@ def main():
             new_content += f'\n\n![](/{new_image_name})'
             os.makedirs(os.path.dirname(new_image_name), exist_ok=True)
             shutil.copyfile(image_path, new_image_name)
-            print('IMAGE')
+            # print('IMAGE')
 
         image_path2 = recipe_path.replace(f'.{ext}', ' 2.jpg')
         if os.path.isfile(image_path2):
             new_content += f'\n\n![](/{new_image_name2})'
             os.makedirs(os.path.dirname(new_image_name2), exist_ok=True)
             shutil.copyfile(image_path2, new_image_name2)
-            print('IMAGE2')
+            # print('IMAGE2')
 
         if has_image or len(content.split('\n')) > 2:
             os.makedirs('_posts', exist_ok=True)

@@ -2,7 +2,7 @@
 layout: recipe_post
 title:  "Lemon tea cakes"
 date:   2019-12-22 12:01:53 +0000
-categories: cake from-grandma-
+categories: cake from-grandma
 ---
 
 ## From Grandma ??

@@ -2,7 +2,7 @@
 layout: recipe_post
 title:  "Chewy oatmeal fruit cookies"
 date:   2019-12-22 12:02:32 +0000
-categories: cookies from-nanas-
+categories: cookies from-nanas
 ---
 
 ## From Nana's (?)
