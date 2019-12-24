@@ -6,7 +6,7 @@ categories: meat from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1/2 cup strong Dijon-type mustard
 * 2 tablespoons soy sauce
 * 1 clove mashed garlic

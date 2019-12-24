@@ -6,7 +6,7 @@ categories: bread-and-biscuits from-mom
 ---
 
 ## From Mom
-###350F for 1 hour in a greased loaf pan
+### 350F for 1 hour in a greased loaf pan
 * 2 cups flour
 * 1 cup sugar
 * 3 1/2 teaspoons baking powder

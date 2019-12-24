@@ -6,7 +6,7 @@ categories: breakfast from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1/2 loaf french bread cut into cubes
 * 1/2 pound loose hot sausage
 * 1 tablespoon dry hot musrard

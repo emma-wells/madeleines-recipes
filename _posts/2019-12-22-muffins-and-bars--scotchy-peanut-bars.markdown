@@ -6,7 +6,7 @@ categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 2/3 cup butter
 * 1/2 cup firmly backed brown sugar
 * 1 1/3 cups flour

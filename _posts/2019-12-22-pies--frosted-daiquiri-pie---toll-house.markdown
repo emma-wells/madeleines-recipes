@@ -6,7 +6,7 @@ categories: pies
 ---
 
 ## From?
-###Serves 6-8
+### Serves 6-8
 
 Soften 1 envelope gelatine in 1/3 cup cold water. Beat 2 egg yolks slightly. Add 2/3 cup sugar, 1/2 teaspoon salt, 1/2 cup fresh or bottled lime juice. Put in the top of a double boiler. Beat with rotary beater until blended. Cook over hot water, stirring constantly until mixture coats spoon. Remove from hot water. Add gelatine, and stir until thoroughly disolved. 
 

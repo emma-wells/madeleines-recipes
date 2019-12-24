@@ -6,7 +6,7 @@ categories: pies from-grandma
 ---
 
 ## From Grandma
-###Makes 6 serviings
+### Makes 6 serviings
 * 3 tablespoons sugar
 * 2 tablespoons cornstarch (cornflour)
 * 1 can (20 oz) pineapple chunks

@@ -6,7 +6,7 @@ categories: pies from-mom-and-dear-abby
 ---
 
 ## From Mom and Dear Abby
-###Ingredients
+### Ingredients
 * 1 cup white corn syrup
 * 1 cup dark brown sugar
 * 1/3 teaspoon salt

@@ -6,7 +6,7 @@ categories: cake from-mom
 ---
 
 ## From Mom
-###Ingredients
+### Ingredients
 * 2 eggs
 * 1 cup sugar
 * 1 cup flour

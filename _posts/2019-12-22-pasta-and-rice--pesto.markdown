@@ -6,7 +6,7 @@ categories: pasta-and-rice from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 2 cups basil
 * 1/2 cup parsley
 * 1/4 cup pinenuts or walnuts

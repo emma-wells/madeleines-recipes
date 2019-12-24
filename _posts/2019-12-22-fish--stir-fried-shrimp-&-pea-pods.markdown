@@ -6,7 +6,7 @@ categories: fish from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 3 tablespoons corn oil
 * 1 clove garlic, minced
 * 1 6-ounce package of frozen pea pods

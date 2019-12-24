@@ -6,7 +6,7 @@ categories: poultry from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 3 pounds of chicken, cut up
 * 1/4 cup water
 * 1/4 cup lemon juice or vinegar

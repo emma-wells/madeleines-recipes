@@ -26,15 +26,18 @@ def _extract_name(content, name):
 def _tidy_content(c):
     new_c = c.replace('<br>', '\n').replace('</br>', '\n')
 
-    _new_c = re.sub(r'\n(###)(?=[A-Za-z])', '\n### ', new_c)
+    _new_c = re.sub(r'\n(###)(?=[A-Za-z0-9])', '\n### ', new_c)
+    if '###' in c:
+        assert _new_c != new_c
+    new_c = _new_c
 
-    new_c = re.sub(r'^(##)(?=[A-Za-z])', '## ', new_c)
+    _new_c = re.sub(r'^(##)(?=[A-Za-z])', '## ', new_c)
     assert _new_c != new_c
-    new_c = new_c
+    new_c = _new_c
 
-    new_c = re.sub(r'^(#)(?=[A-Za-z])', '# ', new_c)
-    assert _new_c != new_c
-    new_c = new_c
+    # _new_c = re.sub(r'^(#)(?=[A-Za-z])', '# ', new_c)
+    # assert _new_c != new_c
+    # new_c = _new_c
 
     return new_c
 
@@ -78,7 +81,7 @@ def main():
 
         print(header)
         extracted_name = _extract_name(content, name)
-        new_content = header + "\n" + _tidy_content(content.replace(f'#{extracted_name}\n', ''))
+        new_content = header + "\n" + _tidy_content(content.replace(f'#{extracted_name}', '').lstrip())
 
         image_path = recipe_path.replace(f'.{ext}', '.jpg')
         has_image = os.path.isfile(image_path)

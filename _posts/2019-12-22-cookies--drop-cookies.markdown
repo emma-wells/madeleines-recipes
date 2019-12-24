@@ -6,7 +6,7 @@ categories: cookies from-grandma-via-irene-comeau
 ---
 
 ## From Grandma, via Irene Comeau
-###Ingredients
+### Ingredients
 * 1 cup brown sugar
 * 1 egg
 * 1/4 cup shortening

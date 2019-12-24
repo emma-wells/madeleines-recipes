@@ -6,7 +6,7 @@ categories: meat
 ---
 
 ## From ??
-###Ingredients
+### Ingredients
 * 1 pound bulk sausage or bacon, browned and drained
 * 2 cups milk
 * 6 slices bread, cubed (minus crusts)

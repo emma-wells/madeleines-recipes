@@ -6,7 +6,7 @@ categories: pies from-grandma-ida-1987
 ---
 
 ## From Grandma, Ida 1987
-###Ingredients
+### Ingredients
 * 1/2 cup biscuit mix
 * 1/2 cup sugar
 * 4 eggs

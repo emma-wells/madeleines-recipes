@@ -6,7 +6,7 @@ categories: breakfast from-emma
 ---
 
 ## From Emma
-###Ingredients
+### Ingredients
 * 6 cups rolled oats
 * 1/2 cup seeds or nuts
 * 1/2 cup coconut

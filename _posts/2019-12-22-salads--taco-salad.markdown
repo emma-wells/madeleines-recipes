@@ -6,7 +6,7 @@ categories: salads
 ---
 
 ## From ??
-###Ingredients
+### Ingredients
 * 1 large head lettuce
 * 1 large, fresh, ripe tomato
 * 1 large red onion

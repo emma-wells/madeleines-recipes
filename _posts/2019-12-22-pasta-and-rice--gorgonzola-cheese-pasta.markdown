@@ -6,7 +6,7 @@ categories: pasta-and-rice from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1 package pasta
 * 1/4 cup unsalted butter
 * 3/4 cup heavy cream

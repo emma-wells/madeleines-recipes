@@ -6,7 +6,7 @@ categories: pies from-grandma
 ---
 
 ## From Grandma
-###Filling
+### Filling
 * 2 pounds ricotta cheese (1 large can)
 * 1 + cups sugar
 * 4 beaten egg whites
@@ -15,7 +15,7 @@ categories: pies from-grandma
 
 Beat egg whites well, add sugar and vanilla, beat, add cheese and beat well.
 
-###Crust (makes 4)
+### Crust (makes 4)
 * 3 cups flour
 * 2+ teaspoons baking powder
 * 4 egg yolks

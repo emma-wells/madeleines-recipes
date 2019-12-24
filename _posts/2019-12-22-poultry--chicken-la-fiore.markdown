@@ -6,7 +6,7 @@ categories: poultry
 ---
 
 ## From ??
-###Ingredients
+### Ingredients
 1. 2 young fryers, cut up OR favorite chicken parts
 2. salt and pepper
 3.  1/3 cup grated permsan cheese

@@ -6,7 +6,7 @@ categories: vegetables from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1 pound ground beef
 * 1 cup cream of chicken soup
 * 4 teaspoons green chillies

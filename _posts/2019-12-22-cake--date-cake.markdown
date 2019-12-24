@@ -6,7 +6,7 @@ categories: cake from-mom
 ---
 
 ## From Mom
-###Ingredients
+### Ingredients
 * 1 1/4 cup hot water
 * 1 cup cut dates
 * 3/4 cup shortening

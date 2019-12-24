@@ -6,7 +6,7 @@ categories: soups from-mom
 ---
 
 ## From Mom
-###Ingredients
+### Ingredients
 * 6 chicken breast <u>or</u> 3/4 pound sliced turkey breast
 * 1 medium onion, chopped
 * 2 cans potato soup

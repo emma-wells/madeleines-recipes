@@ -6,7 +6,7 @@ categories: appetizers from-helen-kyslowsky
 ---
 
 ## From Helen Kyslowsky
-###Ingredients
+### Ingredients
 * 2 cups Pepperidge Farm stuffinf
 * 4 eggs, beaten
 * 2 packages of chopped, frozen spinach (drained)

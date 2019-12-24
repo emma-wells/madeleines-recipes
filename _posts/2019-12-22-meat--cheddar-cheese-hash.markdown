@@ -6,7 +6,7 @@ categories: meat from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 4 cups diced, cold boiled potato
 * 1 chopped onion
 * 3 tablespoons flour

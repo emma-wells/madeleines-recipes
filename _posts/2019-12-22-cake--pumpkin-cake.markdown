@@ -6,7 +6,7 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 3 eggs
 * 1 1/4 cup sugar
 * 1 cup pumpkin
@@ -24,7 +24,7 @@ Beat eggs and sugar, stir in pumpkin, oil and water- blend. Mix dry ingredients 
 
 
  Emma's note: no baking time or pan size.</b>
-###Orange butter frosting
+### Orange butter frosting
 * 3 tablespoons orange juice
 * 1 teaspoon orange peel
 * 2 1/2 sugar (Emma: probably confectionary sugar)

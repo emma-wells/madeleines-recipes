@@ -6,7 +6,7 @@ categories: meat from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 2 cups of ground meat - use one kind. Ham is very tasty. 
 * 2 beaten eggs
 * 2 cups milk

@@ -6,7 +6,7 @@ categories: pies
 ---
 
 ## From ??
-###Ingredients
+### Ingredients
 * 1/2 cup sugar
 * 1/2 cup brown sugar
 * 3 1/2 tablespoon butter

@@ -6,7 +6,7 @@ categories: fish
 ---
 
 ## From ??
-###Ingredients
+### Ingredients
 * 1 pound fresh mussels
 * 1 cup dry sherry or other white wine
 * 1 small onion, sliced
@@ -19,7 +19,7 @@ categories: fish
 Scrub mussel and discard any that or open or not closed. Combine remaining ingredients in a pot and heat until hot. Add mussels. Cover tightly and steam until mussels open (2 minutes). Discard any that don't open. Serve mussels and broth in large soup bowls and provide extra plates. Serves 2. Calories each: 180.
 
 
-###Herb in butter
+### Herb in butter
 * 2 dozen mussles
 * 1/2 cup butter
 * 1 teaspoon chopped parsley

@@ -6,7 +6,7 @@ categories: puddings from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1 quart milk
 * 1 cup cornmeal
 * 1/2 cup light molasses

@@ -6,7 +6,7 @@ categories: puddings from-mom
 ---
 
 ## From Mom
-###Ingredients
+### Ingredients
 * 8 cups cut up rhubarb
 * 1 cup water
 * 2/3 cup sugar

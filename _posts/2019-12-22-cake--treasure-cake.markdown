@@ -6,7 +6,7 @@ categories: cake from-mom-spry-co
 ---
 
 ## From Mom, Spry co.
-###Ingredients
+### Ingredients
 * 2 cups sifted cake flour
 * 1 1/3 cup sugar
 * 2 1/2 teaspoons baking powder

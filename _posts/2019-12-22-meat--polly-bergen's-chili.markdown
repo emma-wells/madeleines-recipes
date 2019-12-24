@@ -6,7 +6,7 @@ categories: meat from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 3 cloves garlic, minced
 * 4 pounds hamburg
 * 4 large green peppers

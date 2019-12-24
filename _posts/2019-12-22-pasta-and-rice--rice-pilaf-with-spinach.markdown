@@ -6,7 +6,7 @@ categories: pasta-and-rice
 ---
 
 ## From ??
-###Ingredients
+### Ingredients
 * 3 tablespoons butter
 * 1 cup chopped onions
 * 2 cloves of garlic, chopped finely
@@ -21,7 +21,7 @@ Sauté onions and garlic in butter until translucent. Add rice, cumin and salt, 
 
 Remove from heat and let stand covered, 5 minutes. Stir in spinach with a fork.
 
-###Spinach
+### Spinach
 
 
 Thaw frozen spinach. Squeeze out most of the water from the spinach. If using above recipe, use half of the 10-ounce package. In frying pan put about 3 tablespoons of olive oil. Heat a few minutes and add spinach, and salt and pepper to taste. Cook for about 3 minutes or until spinach is cooked. With fork stir cooked spinach into cooked rice.

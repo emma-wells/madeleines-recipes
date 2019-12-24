@@ -6,7 +6,7 @@ categories: cookies from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 3 1/4 cup sifted flour
 * 1/2 teaspoon salt
 * 1 teaspoon baking soda

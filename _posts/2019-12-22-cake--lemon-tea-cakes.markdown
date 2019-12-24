@@ -6,7 +6,7 @@ categories: cake from-grandma-
 ---
 
 ## From Grandma ??
-###Ingredients
+### Ingredients
 * 1 1/2 teaspoon vinegar
 * 1/2 cup milk
 * 1/2 cup butter
@@ -20,6 +20,6 @@ categories: cake from-grandma-
 
 
 Stir vinegar into milk. Cream butter and 3/4 cup sugar until fluffy. Add eggs and lemon peel; beat well. Sift together dry ingredients and add to butter mixture, alternatively with milk, beating until smooth after each addition. Drop from a teaspon 2 inches apart on an ungreased cookie sheet. Bake at 350F 12-14 minutes. Brush at once with a lemon glaze.
-###Lemon glaze
+### Lemon glaze
 
 Mix 3/4 cup sugar (Emma: Confectionary sugar?) with 1/4 cup lemon juice.

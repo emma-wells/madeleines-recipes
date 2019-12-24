@@ -6,7 +6,7 @@ categories: soups from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 3 cups beans
 * 6 cups water
 * 1 1/2 cup stewed tomatoes

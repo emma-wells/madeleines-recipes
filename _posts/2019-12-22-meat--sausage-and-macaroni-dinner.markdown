@@ -6,7 +6,7 @@ categories: meat from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 2 pounds bulk pork sausage
 * 1 cup onion, chopped
 * 1 package of elbow macaroni (7 ounces)

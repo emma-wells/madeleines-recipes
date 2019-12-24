@@ -6,7 +6,7 @@ categories: poultry from-mom
 ---
 
 ## From Mom??
-###Ingredients
+### Ingredients
 * 3 pounds favorite chicken parts
 * 1 green pepper, chopped
 * 1 onion, chopped
