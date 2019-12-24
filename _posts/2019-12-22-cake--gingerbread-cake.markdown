@@ -6,7 +6,7 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 3 cups sifted flour
 * 1 teaspoon cinnamon
 * 1 teaspoon ginger

@@ -7,7 +7,7 @@ categories: pies from-grandma
 
 ## From Grandma
 ## makes 8 servings
-### Ingredients
+###Ingredients
 * 6-7 ripe, sliced, peel fresh peaches (4 lbs)
 * 1 1/4 cup sugar
 * 1/4 teaspoon salt

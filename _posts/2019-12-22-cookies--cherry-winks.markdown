@@ -6,7 +6,7 @@ categories: cookies
 ---
 
 ## From ??
-### Ingredients
+###Ingredients
 * 2 1/4 cups all purpose flour
 * 2 teaspoons baking powder
 * pinch of salt

@@ -6,7 +6,7 @@ categories: meat from-mom-via-no-itality
 ---
 
 ## From Mom via No. Itality
-### Ingredients
+###Ingredients
 * 1/2 pound hamburger (optional)
 * 1 cup cooked rice
 * 3 green peppers, chopped

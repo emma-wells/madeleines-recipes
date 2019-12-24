@@ -6,7 +6,7 @@ categories: vegetables from-mom
 ---
 
 ## From Mom
-### Ingredients
+###Ingredients
 * 1 cup raw, peeled, grated zucchini
 * 1/2 teaspoon salt
 * 2 eggs, separated

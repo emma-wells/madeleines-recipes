@@ -6,7 +6,7 @@ categories: appetizers from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 3-4 cans mixed nuts
 * 6 ounces Very Thin Pretzel
 * 1 package 10.5-ounce Cheerios

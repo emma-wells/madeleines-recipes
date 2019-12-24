@@ -6,7 +6,7 @@ categories: muffins-and-bars from-mom
 ---
 
 ## From Mom
-### Ingredients
+###Ingredients
 * 1 cup quick-cooking rolled oats
 * 1 cup flour
 * 3/4 cup brown sugar

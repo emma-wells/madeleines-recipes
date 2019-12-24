@@ -6,7 +6,7 @@ categories: puddings from-mom
 ---
 
 ## From Mom
-### Ingredients
+###Ingredients
 * 1/4 pound cut marshmallows (about 20)
 * 1 cup heavy cream
 * 1/4 cup milk

@@ -6,7 +6,7 @@ categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 cup butter (2 sticks)
 * 1 cup sugar
 * 2 cups flour

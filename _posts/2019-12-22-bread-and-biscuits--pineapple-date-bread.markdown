@@ -5,8 +5,7 @@ date:   2019-12-22 12:00:00 +0000
 categories: bread-and-biscuits from-mom
 ---
 
-# Pineapple date bread (Luvtacuk (chat))
-##From Mom
+## From Mom
 * 1 beaten egg
 * 1/3 cup milk
 * 1/3 cup melted shortening or salad oil

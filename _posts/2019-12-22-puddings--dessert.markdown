@@ -6,7 +6,7 @@ categories: puddings from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 8 ounces cream cheese
 * 1 package vanilla instant pudding
 * 1 cup drained fruit cocktail

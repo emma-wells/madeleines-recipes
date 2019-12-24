@@ -6,7 +6,7 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 3/4 cup sugar
 * 1/3 cup Crisco oil
 * 1 egg
@@ -17,7 +17,7 @@ categories: cake from-grandma
 
 Combine sugar, Crisco Oil and egg. Add milk and beat thoroughly. Stir in combined dry ingredients. Beat until smooth. Spread in a greased 9-inch square pan. Sprinkle with streusel topping. Bake at 375F for 30-35 minutes.
 
-### Streusal topping
+###Streusal topping
 * 1/2 cup light brown sugar
 * 2 tablespoons regular flour
 * 2 teaspoons cinnamon

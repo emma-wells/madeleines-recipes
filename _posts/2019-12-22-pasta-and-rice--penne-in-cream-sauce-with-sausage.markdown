@@ -6,7 +6,7 @@ categories: pasta-and-rice from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 tablespoon butter
 * 1 tablespoon olive oil 
 * 1 medium onion, thinly sliced

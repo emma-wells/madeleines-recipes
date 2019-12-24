@@ -6,7 +6,7 @@ categories: puddings from-mom-via-womens-day
 ---
 
 ## From Mom via Women's Day
-### Ingredients
+###Ingredients
 * 3 tablespoons quick-cooking tapioca
 * 1 cup sugar
 * 3 cups rhubarb

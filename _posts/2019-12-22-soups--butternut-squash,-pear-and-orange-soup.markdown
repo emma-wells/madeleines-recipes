@@ -5,9 +5,8 @@ date:   2019-12-22 12:03:35 +0000
 categories: soups from-grandma
 ---
 
-# Butternut squash, pear and orange soup
-##From Grandma
-### Ingredients
+## From Grandma
+###Ingredients
 * 1 large butternut squash
 * 6 tablespoons butter
 * 1 large onion, coarsely chopped
@@ -23,6 +22,6 @@ Peel squash and cut into chunks - set aside. In a large saucepan, melt the butte
 
 Puree the soup in a blender. Return to a boil and thin it with a few spoonfuls of water, if necessary, to make it the consistency you prefer.
 
-### Garnish
+###Garnish
 
 Beat 1/2 cup heavy cream, and spon on the soup. Sprinkle the cream with cinnamon and pecans.

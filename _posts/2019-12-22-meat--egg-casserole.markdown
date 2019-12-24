@@ -5,9 +5,8 @@ date:   2019-12-22 12:06:33 +0000
 categories: meat
 ---
 
-# Egg casserole
-##From ??
-### Ingredients
+## From ??
+###Ingredients
 * 1 pound bulk sausage or bacon, browned and drained
 * 2 cups milk
 * 6 slices bread, cubed (minus crusts)

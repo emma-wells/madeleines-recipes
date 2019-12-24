@@ -5,9 +5,8 @@ date:   2019-12-22 12:01:08 +0000
 categories: pies
 ---
 
-# Frosted Daiquiri pie - Toll house
-##From?
-### Serves 6-8
+## From?
+###Serves 6-8
 
 Soften 1 envelope gelatine in 1/3 cup cold water. Beat 2 egg yolks slightly. Add 2/3 cup sugar, 1/2 teaspoon salt, 1/2 cup fresh or bottled lime juice. Put in the top of a double boiler. Beat with rotary beater until blended. Cook over hot water, stirring constantly until mixture coats spoon. Remove from hot water. Add gelatine, and stir until thoroughly disolved. 
 

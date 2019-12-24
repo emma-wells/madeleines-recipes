@@ -6,7 +6,7 @@ categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 cup unsifted all-purpose flour
 * 3 teaspoons baking powder
 * 1/2 teaspoon salt

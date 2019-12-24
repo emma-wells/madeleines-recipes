@@ -6,7 +6,7 @@ categories: bread-and-biscuits from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 cup all-purpose flour
 * 3 whole eggs
 * 1 cup milk

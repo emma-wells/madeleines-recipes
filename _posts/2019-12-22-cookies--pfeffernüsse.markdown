@@ -5,9 +5,8 @@ date:   2019-12-22 12:02:45 +0000
 categories: cookies from-naomi
 ---
 
-# Pfeffernüsse
-##From Naomi?
-### Makes 300
+## From Naomi?
+###Makes 300
 In one large mixing bowl, combine:
 * 2 cups dark corn syrup
 * 2 cups sugar

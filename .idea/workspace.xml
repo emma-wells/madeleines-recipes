@@ -407,36 +407,40 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="0" y="78" key="FileDocumentManager.FileCacheConflict/0.23.1440.877@0.23.1440.877" timestamp="1577189948445" />
-    <state width="1398" height="375" key="GridCell.Tab.0.bottom" timestamp="1577209565811">
+    <state width="1398" height="138" key="GridCell.Tab.0.bottom" timestamp="1577215623845">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="375" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577209565811" />
-    <state width="1398" height="375" key="GridCell.Tab.0.center" timestamp="1577209565811">
+    <state width="1398" height="138" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1577215623845" />
+    <state width="1398" height="138" key="GridCell.Tab.0.center" timestamp="1577215623844">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="375" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1577209565811" />
-    <state width="1398" height="375" key="GridCell.Tab.0.left" timestamp="1577209565810">
+    <state width="1398" height="138" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1577215623844" />
+    <state width="1398" height="138" key="GridCell.Tab.0.left" timestamp="1577215623844">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="375" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1577209565810" />
-    <state width="1398" height="375" key="GridCell.Tab.0.right" timestamp="1577209565811">
+    <state width="1398" height="138" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1577215623844" />
+    <state width="1398" height="138" key="GridCell.Tab.0.right" timestamp="1577215623845">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="375" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1577209565811" />
+    <state width="1398" height="138" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1577215623845" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1577101827772">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1577101827772" />
-    <state x="375" y="225" width="689" height="472" key="find.popup" timestamp="1577199273228">
+    <state width="720" height="438" key="XDebugger.FullValuePopup" timestamp="1577215245992">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="375" y="225" width="689" height="472" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1577199273228" />
+    <state width="720" height="438" key="XDebugger.FullValuePopup/0.23.1440.877@0.23.1440.877" timestamp="1577215245992" />
+    <state x="375" y="225" width="934" height="472" key="find.popup" timestamp="1577215534811">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="375" y="225" width="934" height="472" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1577215534811" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1577204276058">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1577204276058" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/top_secret$rename_recipes.coverage" NAME="rename_recipes Coverage Results" MODIFIED="1577209565798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/top_secret$rename_recipes.coverage" NAME="rename_recipes Coverage Results" MODIFIED="1577215623769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

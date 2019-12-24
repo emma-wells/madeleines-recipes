@@ -6,7 +6,7 @@ categories: soups from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 2 packages of sausage meat
 * 2 quarts of milk
 * 2 cups, 1 pound & 10 ounces cream-style corn

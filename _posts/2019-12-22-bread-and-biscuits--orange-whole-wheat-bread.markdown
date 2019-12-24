@@ -5,8 +5,7 @@ date:   2019-12-22 12:00:01 +0000
 categories: bread-and-biscuits from-mom
 ---
 
-# Orange whole wheat bread
-##From Mom
+## From Mom
 ###350F for 1 hour in a greased loaf pan
 * 2 cups flour
 * 1 cup sugar

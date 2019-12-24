@@ -15,11 +15,26 @@ def _parse_category(s):
         '?', '').replace('.', '').replace("'", '').strip()
 
 
+def _extract_name(content, name):
+    first = content.splitlines()[0]
+    if first.startswith('#') and not first[1:].startswith('#'):
+        return first.split('#')[-1].strip()
+    else:
+        return name
+
+
 def _tidy_content(c):
     new_c = c.replace('<br>', '\n').replace('</br>', '\n')
-    new_c = re.sub(r'\n(###)(?=[A-Za-z])', '\n### ', new_c)
+
+    _new_c = re.sub(r'\n(###)(?=[A-Za-z])', '\n### ', new_c)
+
     new_c = re.sub(r'^(##)(?=[A-Za-z])', '## ', new_c)
+    assert _new_c != new_c
+    new_c = new_c
+
     new_c = re.sub(r'^(#)(?=[A-Za-z])', '# ', new_c)
+    assert _new_c != new_c
+    new_c = new_c
 
     return new_c
 
@@ -62,7 +77,8 @@ def main():
         print(category, name, new_file_name, file_name)
 
         print(header)
-        new_content = header + "\n" + _tidy_content(content.replace(f'#{name}\n', ''))
+        extracted_name = _extract_name(content, name)
+        new_content = header + "\n" + _tidy_content(content.replace(f'#{extracted_name}\n', ''))
 
         image_path = recipe_path.replace(f'.{ext}', '.jpg')
         has_image = os.path.isfile(image_path)

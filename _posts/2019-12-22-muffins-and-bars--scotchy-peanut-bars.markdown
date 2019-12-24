@@ -5,9 +5,8 @@ date:   2019-12-22 12:04:45 +0000
 categories: muffins-and-bars from-grandma
 ---
 
-# Scotchy peanut bars
-##From Grandma
-### Ingredients
+## From Grandma
+###Ingredients
 * 2/3 cup butter
 * 1/2 cup firmly backed brown sugar
 * 1 1/3 cups flour

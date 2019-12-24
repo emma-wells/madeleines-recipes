@@ -5,8 +5,7 @@ date:   2019-12-22 12:00:07 +0000
 categories: bread-and-biscuits from-grandma
 ---
 
-# Lemon nut bread
-##From Grandma
+## From Grandma
 * 1/4 cup butter or margarine
 * 3/4 cup sugar
 * 2 eggs

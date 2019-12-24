@@ -6,7 +6,7 @@ categories: meat from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 4 large baking potatoes
 * 2/4 cup margarine
 * 1/3 cup milk

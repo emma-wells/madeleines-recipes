@@ -6,7 +6,7 @@ categories: bread-and-biscuits from-mom
 ---
 
 ## From Mom
-### Ingredients
+###Ingredients
 * 2 cups unsifted flour
 * 2 tablespoons sugar
 * 1 teaspoon salt

@@ -5,5 +5,4 @@ date:   2019-12-22 12:00:31 +0000
 categories: poultry from-clipping
 ---
 
-# Chicken curry cassrole
-##From clipping
+## From clipping

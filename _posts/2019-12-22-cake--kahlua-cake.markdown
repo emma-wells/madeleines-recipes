@@ -6,8 +6,8 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-### Bake 350F - 45 minutes
-### Ingredients
+###Bake 350F - 45 minutes
+###Ingredients
 * 1/3 cup packed brown sugar
 * 1/4 teaspoon cinnamon
 * 2 cups sifted flour

@@ -6,7 +6,7 @@ categories: puddings from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 cup flour
 * 1 cup sugar
 * 1 teaspoon baking soda

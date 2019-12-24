@@ -6,7 +6,7 @@ categories: cake from-mom-via-womans-day
 ---
 
 ## From Mom via Woman's Day
-### Ingredients
+###Ingredients
 * 3 cups rhubarb in 1/2" pieces
 * 1 cup sugar
 * 1 1/2 teaspoons of quick-cooking tapioca

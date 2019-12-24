@@ -6,14 +6,14 @@ categories: fruit-cobblers from-mom-via-womans-day
 ---
 
 ## From Mom, via Woman's Day
-### Ingredients
+###Ingredients
 * 29 ounces sliced peaches
 * 1 package frozen strawberries, thawed
 * 1/3 cup milk
 * 1 egg white
 * 2 tablesppons sugar
 
-### Topping
+###Topping
 * 1 cup sifted flour 
 * 1 1/2 teaspoon baking powder
 * 1/4 teaspoon salt
@@ -21,7 +21,7 @@ categories: fruit-cobblers from-mom-via-womans-day
 * 1/2 cup sugar
 * 1 egg yolk
 * 1/2 teaspoon vanilla
-### Method 
+###Method 
 1. Combine peaches and strawberries in 9x9x2" baking pan.Heat until fruits are bubbly-hot.
 2. Sift flour, baking powder, and salt.
 3. Cream shortening, gradually add sugar, until light and fluffy. Beat in egg yolk and vanilla.

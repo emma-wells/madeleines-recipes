@@ -6,7 +6,7 @@ categories: appetizers from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 8-ounce package of cream cheese
 * 8 ounces crabmeat 
 * 1 clove garlic, minced

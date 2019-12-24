@@ -29,6 +29,6 @@ Sprinkle:
 Makes an 8" pie pan. (larger than intended).
 
 
-### Filling
+###Filling
 
 Fry 1/2 pound of bacon, and crumble into pie. Arrange 1/4 pound swiss cheese or American cheese over the bacon. Beat 3 eggs and 2 cups of milk, 1 teaspoon salt, 1/2 teaspoon pepper and cayenne pepper. Blend and pour over bacon and cheese.Bake at 400F for 35-45 minutes.

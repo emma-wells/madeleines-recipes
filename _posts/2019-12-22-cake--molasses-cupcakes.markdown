@@ -6,7 +6,7 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1/2 cup shortening
 * 1/2 cup sugar
 * 1 cup grandma's molasses

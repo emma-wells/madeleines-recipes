@@ -6,7 +6,7 @@ categories: drinks
 ---
 
 ## From ??
-### Ingredients
+###Ingredients
 * 1 can frozen 6-ounce pineapple juice
 * 1 can frozen 6-ounce can orange juice
 * 3/4 cup water

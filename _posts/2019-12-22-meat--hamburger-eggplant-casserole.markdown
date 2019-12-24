@@ -6,7 +6,7 @@ categories: meat from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 medium eggplant, soaked in 4 teaspoons salt
 * 3 tablespoons butter
 * 1 1/2 cup onion

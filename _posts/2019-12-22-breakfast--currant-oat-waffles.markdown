@@ -6,7 +6,7 @@ categories: breakfast from-mom
 ---
 
 ## From Mom
-### Ingredients
+###Ingredients
 * 1 3/4 cups sifted flour
 * 4 teaspoons baking powder
 * 2 tablespoons sugar

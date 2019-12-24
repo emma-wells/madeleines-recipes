@@ -6,7 +6,7 @@ categories: fish from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 3 pounds haddock - skin removed
 * 1 1/2 cup cracker crumbs
 * 2 eggs

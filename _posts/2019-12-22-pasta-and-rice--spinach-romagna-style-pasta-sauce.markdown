@@ -6,7 +6,7 @@ categories: pasta-and-rice from-mom-kumon-on-the-back!
 ---
 
 ## From Mom (Kumon on the back!)
-### Ingredients
+###Ingredients
 * 1 pound fresh spinach
 * 2 tablespoons olive oil
 * 1/3 cup chopped onion

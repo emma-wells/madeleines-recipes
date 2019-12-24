@@ -5,9 +5,8 @@ date:   2019-12-22 12:05:58 +0000
 categories: appetizers from-grandma
 ---
 
-# Welsh Rabbit
-##From Grandma
-### Ingredients
+## From Grandma
+###Ingredients
 * 4 tablespoons butter
 * 1 1/2 cup milk
 * tomato soup

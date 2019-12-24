@@ -6,7 +6,7 @@ categories: puddings from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 2 tablespoons flour
 * 1 17-ounce can cream-style corn
 * 1 tablespoon sugar

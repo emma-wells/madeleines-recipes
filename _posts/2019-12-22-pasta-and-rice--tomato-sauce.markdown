@@ -6,7 +6,7 @@ categories: pasta-and-rice
 ---
 
 ## from Grandma
-### Inredients
+###Inredients
 * 2 pounds fresh or 2 cups canned tomatoes
 * 1 medium onion
 * 1/4 pound butter

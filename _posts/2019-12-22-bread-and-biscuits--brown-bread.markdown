@@ -6,7 +6,7 @@ categories: bread-and-biscuits from-mom-via-farm-journal
 ---
 
 ## From Mom via Farm Journal
-### Ingredients
+###Ingredients
 * 1 1/2 cups sifted flour
 * 1 1/2 cups rye flour
 * 1 cup cornmeal

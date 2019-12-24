@@ -6,7 +6,7 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 1 stick butter
 * 1 cup sugar
 * 2 eggs

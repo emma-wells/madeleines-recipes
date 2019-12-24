@@ -6,7 +6,7 @@ categories: fish from-grandma
 ---
 
 ## From Grandma
-### Ingredients
+###Ingredients
 * 2 envelopes unflavored gelatin
 * 1 cup water
 * 1/4 cup lemon juice
