@@ -1,7 +1,7 @@
 ---
 layout: recipe_post
 title:  "Carrot-bran bread"
-date:   2019-12-22 12:00:02 +0000
+date:   2019-12-22 12:00:01 +0000
 categories: bread-and-biscuits from-grandma
 ---
 
