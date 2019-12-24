@@ -16,7 +16,7 @@ In the meantime, wash and boil jars for 10 minutes (unscrew all parts). 9 cups o
 
 Afte the berries are done, fill the jars. Put the jars with the top screwed on, and boil them for 15 minutes.
 
-###With pectin
+### With pectin
 
 Do everything the same with 3 pints (4 1/2 cups) of berries crushed a small amount with 7 cups sugar. Makes about 10 1/2 pint jars.
 

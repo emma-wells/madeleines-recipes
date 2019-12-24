@@ -6,7 +6,7 @@ categories: cookies from-mom
 ---
 
 ## From Mom
-###Ingredients
+### Ingredients
 * 2 cups sifted all-purpose flour
 * 3/4 teaspoon baking soda
 * 1/4 teaspoon salt
@@ -24,7 +24,7 @@ Mix and sift flour, baking soda, salt, cinnamon, and nutmeg in a large bowl. Add
 
 Drop dough by teaspoonfuls onto greased cookie sheets. Bake at 350F for 12-15 minutes. Cool on wire rack. Makes 5 dozen. 
 
-###Honey butter frosting
+### Honey butter frosting
 * 1/4 cup butter
 * 2 cups sifted confectioners sugar
 * 1/4 cup honey

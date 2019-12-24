@@ -6,7 +6,7 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-###Mix:
+### Mix:
 * 1 cup flour
 * 1/2 cup Oleo
 * 1/4 cup chopped walnuts
@@ -14,7 +14,7 @@ categories: cake from-grandma
 
 Spread in a glass baking dish (7x11 inch). Bake at 375F for 15 minutes. <u>Cool.</u>
 
-###Mix:
+### Mix:
 * 8 ounces cream cheese
 * 1 cup confectionary sugar
 

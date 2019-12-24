@@ -6,7 +6,7 @@ categories: meat from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 2 1/2 pounds ground cooked ham
 * 1 1/4 cups old-fashioned or quick oats, uncooked
 * 1 cup milk
@@ -16,7 +16,7 @@ categories: meat from-grandma
 Lightly grease a large baking dish, and set aside. Combine ham, oats, milk and eggs - shape into balls. Place in baking dish.
 
 
-###Sauce
+### Sauce
 * 1 cup + 2 tablespoons brown sugar
 * 3 tablespoons cornstarch (cornflour)
 * 1 1/2 tablespoons prepared mustard

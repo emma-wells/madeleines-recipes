@@ -6,7 +6,7 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1/2 cup butter
 * 1 1/2 cup brown sugar
 * 1/2 cup peanut butter

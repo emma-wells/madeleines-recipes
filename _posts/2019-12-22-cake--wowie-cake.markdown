@@ -6,7 +6,7 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1 cup sugar
 * 1 1/2 cups flour
 * 1/2 teaspoon salt

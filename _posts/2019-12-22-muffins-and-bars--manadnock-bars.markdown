@@ -6,7 +6,7 @@ categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1 cup chopped dates
 * 1 cup boiling water
 * 1/4 cup cocoa

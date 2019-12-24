@@ -6,7 +6,7 @@ categories: muffins-and-bars from-mom
 ---
 
 ## From Mom
-###Ingredients
+### Ingredients
 * 1 package 9-ounces condensed fruit mince meat
 * 3/4 cup water
 * 2 cups graham cracker crumbs

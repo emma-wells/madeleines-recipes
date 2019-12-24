@@ -6,7 +6,7 @@ categories: appetizers from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 8 slices bacon, crisply cooked
 * 1 medium tomato
 * 1/2 small onion

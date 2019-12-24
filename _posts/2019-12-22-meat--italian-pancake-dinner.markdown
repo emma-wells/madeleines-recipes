@@ -6,13 +6,13 @@ categories: meat from-grandma
 ---
 
 ## From Grandma
-###Pancakes
+### Pancakes
 * 3 eggs
 * 1 cup milk
 * 3/4 sifted flour
 * 1/2 teaspoon salt
 
-###Filling
+### Filling
 * 1 pound ground beef
 * 1 tablespoon cooking oil
 * 1/4 cup onion

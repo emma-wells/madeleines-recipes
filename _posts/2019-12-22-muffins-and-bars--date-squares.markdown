@@ -6,7 +6,7 @@ categories: muffins-and-bars
 ---
 
 ## From ??
-###Oatmeal mixture
+### Oatmeal mixture
 * 1 1/3 cups oatmeal
 * 1 cup brown sugar
 * 1 1/3 cup flour
@@ -15,7 +15,7 @@ categories: muffins-and-bars
 
 Mix together (sift flour) and add 1/2 cup butter, or favorite shortening (I used 1/4 cup butter and 1/4 cup lard or Spry).
 
-###Filling
+### Filling
 * 1/2 cup sugar - brown or white
 * 1 package of dates, cut in pieces
 * 1 tablespoon flour

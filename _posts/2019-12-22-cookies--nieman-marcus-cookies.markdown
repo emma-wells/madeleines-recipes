@@ -6,7 +6,7 @@ categories: cookies from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 2 cups butter
 * 4 cups flour
 * 2 teaspoons soda

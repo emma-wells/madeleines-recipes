@@ -6,7 +6,7 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1 teaspoon cinnamon
 * 1/4 cup sugar
 * 1/4 cup chopped nuts

@@ -6,7 +6,7 @@ categories: muffins-and-bars
 ---
 
 ## from Grandma
-###Ingredients
+### Ingredients
 * 1 1/2 cup flour
 * 2/3 cup sugar
 * 2 teaspoons baking powder

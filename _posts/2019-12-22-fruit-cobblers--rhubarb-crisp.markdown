@@ -6,7 +6,7 @@ categories: fruit-cobblers from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 2 cups rhubarb
 * 3/4 cup sugar
 * 1/2 cup flour
@@ -15,7 +15,7 @@ categories: fruit-cobblers from-grandma
 
 Toss rubarb with sugar, lemon juice and flour. Transfer mix to a baking dish.
 
-###Topping
+### Topping
 * 1 cup flour
 * 1/2 cup granulated sugar
 * 3/4 cup rolled oats

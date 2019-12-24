@@ -6,7 +6,7 @@ categories: bread-and-biscuits from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 2 cups flour
 * 1/2 cup wheat germ
 * 1 envelope active dry yeast

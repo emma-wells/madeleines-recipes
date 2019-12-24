@@ -6,7 +6,7 @@ categories: muffins-and-bars from-ellie-divirgilio
 ---
 
 ## From Ellie DiVirgilio
-###Ingredients
+### Ingredients
 * 1 cup chopped dates
 * 1 cup chopped nuts
 * 1 cup sifted flour

@@ -6,7 +6,7 @@ categories: fruit-cobblers from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 3 cups sliced fresh peaches
 * 2 cups water
 * 1 cup sugar

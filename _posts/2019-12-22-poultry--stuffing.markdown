@@ -6,7 +6,7 @@ categories: poultry from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1 pound sausage meat
 * 1 cup chopped onion
 * 1 cup chopped celery, including tops

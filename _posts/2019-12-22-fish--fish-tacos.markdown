@@ -6,7 +6,7 @@ categories: fish from-mom-june-2003
 ---
 
 ## From Mom, June 2003
-###Ingredients
+### Ingredients
 * Oil for frying
 * flour tortilla
 * lime for squeezing
@@ -17,12 +17,12 @@ categories: fish from-mom-june-2003
 
 Set the chunks in the batter, then still dripping fry for 4-5 minutes in 1/4-inch oil, turning halfway through. Turning halfway through. Set on a tortilla that has fixings on it.
 
-###Sauce
+### Sauce
 * 1/2 cup mayonnaise
 * 1 tablespoon chopped cilantro
 * 1/2 lime
 
-###Batter
+### Batter
 * 3/4 cup flour
 * 1/2 teaspoon baking powder
 * 1/2 teaspoon oregano

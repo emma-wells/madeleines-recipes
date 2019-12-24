@@ -6,7 +6,7 @@ categories: puddings from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1/2 cup butter
 * 1/4 cup sugar
 * 2/3 cup light brown sugar
@@ -29,7 +29,7 @@ categories: puddings from-grandma
 
  Let stand 10 minutes; unmold.
 
-###Eggnog sauce
+### Eggnog sauce
 * 1 1/2 cups eggnog
 * 1 package vanilla instant pudding
 * 1 cup milk

@@ -6,7 +6,7 @@ categories: pies from-bible-flowers-and-mom
 ---
 
 ## From Bible Flowers (and Mom)
-###Ingredients
+### Ingredients
 * 3/4 cup sugar
 * 1/3 cup all purpose flour, sifted
 * 2 cups milk, scalded

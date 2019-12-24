@@ -6,7 +6,7 @@ categories: cookies from-grandma
 ---
 
 ## From Grandma
-####Ingredients
+### Ingredients
 * 1 cup brown sugar
 * 1 cup dark molasses
 * 1 cup butter
@@ -16,7 +16,7 @@ categories: cookies from-grandma
 * 1/2 teaspoon salt
 * 4 cups flour
 
-####Method
+### Method
 
 Bring sugar, molasses, butter to a boil in a large saucepan. Add soda, spices, last flour. Work ingredients together. Chill 8 hours or overnight. Roll out dough to 1/8 thickness on a floured board. Cut with a gingerbreadmen cutter. Decorate with candy buttons and pieces of cherry bake in 350F oven 12-18 minutes. Or until crisp and golden.
  

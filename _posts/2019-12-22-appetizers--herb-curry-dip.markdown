@@ -6,7 +6,7 @@ categories: appetizers
 ---
 
 ## From ??
-###Ingredients
+### Ingredients
 * 1 cup mayonaise
 * 1/2 cup sour cream
 * 1 teaspoon crushed mixed herbs

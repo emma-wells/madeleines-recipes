@@ -6,7 +6,7 @@ categories: cake from-mom
 ---
 
 ## From Mom
-###Ingredients
+### Ingredients
 * 1/2 cup shortening
 * 1 1/4 cup sugar
 * 1 teaspoon vanilla

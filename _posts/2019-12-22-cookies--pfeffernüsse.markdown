@@ -6,7 +6,7 @@ categories: cookies from-naomi
 ---
 
 ## From Naomi?
-###Makes 300
+### Makes 300
 In one large mixing bowl, combine:
 * 2 cups dark corn syrup
 * 2 cups sugar

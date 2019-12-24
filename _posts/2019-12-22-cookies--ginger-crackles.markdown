@@ -6,7 +6,7 @@ categories: cookies from-mom-via-chat
 ---
 
 ## From Mom via chat
-###Ingredients
+### Ingredients
 * 3/4 cup shortening
 * 1 cup sugar
 * 1 egg

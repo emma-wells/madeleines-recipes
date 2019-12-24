@@ -6,7 +6,7 @@ categories: drinks from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 6-ounce unsweetened pineapple juice
 * 1 quarter cranberry juice cocktail
 * 1 pint or 12 ounces ginger ale

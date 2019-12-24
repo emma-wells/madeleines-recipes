@@ -6,7 +6,7 @@ categories: meat from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 2 cups washed lentils
 * 1 pound ground beef
 * 1 cup catsup or tomato sauce

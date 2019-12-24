@@ -6,7 +6,7 @@ categories: puddings from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1 quart milk
 * 1/4 cup rice
 * 5 tablespoons sugar

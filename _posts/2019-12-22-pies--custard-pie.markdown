@@ -6,7 +6,7 @@ categories: pies from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 2 large eggs
 * 3/4 sugar
 * 3 cups milk, boiling hot

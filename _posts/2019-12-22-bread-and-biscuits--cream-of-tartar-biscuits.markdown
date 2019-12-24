@@ -6,7 +6,7 @@ categories: bread-and-biscuits from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 3 cups flour
 * 1 teaspoon salt
 * 2 teaspoon cream of tartar

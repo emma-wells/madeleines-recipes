@@ -6,7 +6,7 @@ categories: cake from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1/2 pound butter
 * 4 eggs
 * 4 cups flour
@@ -39,7 +39,7 @@ Mix each well. Pour into greased and floured tube or bundt pan- first the green 
 
 Bake 350F for 60-75 minutes
 
-###Chocolate glaze (optional)
+### Chocolate glaze (optional)
 * 1 cup confectioners sugar
 *  1/2 teaspoon vanilla
 * 2 ounces melted chocolate

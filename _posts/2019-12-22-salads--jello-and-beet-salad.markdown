@@ -6,7 +6,7 @@ categories: salads from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1 can drained julienne beets
 * 1 small can cdrained crushed pineapple
 

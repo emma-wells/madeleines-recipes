@@ -6,7 +6,7 @@ categories: cookies from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1 cup shortening
 * 1 cup brown sugar
 * 2 teaspoons vanilla

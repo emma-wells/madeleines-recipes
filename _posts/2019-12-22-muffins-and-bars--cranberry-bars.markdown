@@ -6,7 +6,7 @@ categories: muffins-and-bars from-mom
 ---
 
 ## From Mom
-###Ingredients
+### Ingredients
 * 1 1/2 cup flour
 * 1 1/2 cup oatmeal
 * 1/4 teaspoon baking soda

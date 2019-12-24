@@ -6,7 +6,7 @@ categories: appetizers from-mom-via-farmstead-magazine
 ---
 
 ## From Mom via Farmstead Magazine
-###Ingredients
+### Ingredients
 * 6 quarts sliced green tomato
 * 6 quarts of medium sliced onion
 * 1 1/2 cups vinegar

@@ -6,7 +6,7 @@ categories: bread-and-biscuits from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 3/4 cup sugar
 * 3/4 teaspoon salt
 * 2 cups flour

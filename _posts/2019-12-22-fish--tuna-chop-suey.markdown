@@ -6,7 +6,7 @@ categories: fish from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 3 tablespoons oil
 * 1 large clove minced garlic
 * 1 1/2 cup celery strips

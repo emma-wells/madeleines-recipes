@@ -6,7 +6,7 @@ categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma
-###Ingredients
+### Ingredients
 * 1 1/2 cups Kellogg's cornflake crumbs
 * 3 tablespoons sugar
 * 1/2 cup (1 stick) margarine or butter, melted

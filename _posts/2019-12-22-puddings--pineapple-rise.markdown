@@ -6,7 +6,7 @@ categories: puddings from-mom-via-charlie-ballo-yankee-prize-winner
 ---
 
 ## From Mom via Charlie Ballo (Yankee prize winner)
-###Ingredients
+### Ingredients
 * 1 20 ounce can of crushed pineapple
 * 1 1/2 cups sugar
 * 3/4 ounce gelatine

@@ -32,7 +32,7 @@ Add egg and enough flour to make a soft dough. Knead. Cover, and rise about 1 ho
 
 On a floured board, roll until 1/2 inch thick. With a 3 1/4 inch cutter, cut out. Place on cookie sheets sprinkled with 1/2 cup cornmeal. Cover. Let rise until double, about 45 minutes. Heat a lightly greased griddle. Cook over low heat, 8-10 minutes each side. Cool. Makes 24.
 
-###Variations
+### Variations
 * Onion: Add 1 envelope onion soup mix and 3 tablespoons nonfat dry milk to the dry ingredients. Decrease salt. Increase butter. Use 2 cups of water.
 * Mushroom: Decrease salt and add 1/2 teaspoon thyme. No milk + 100g can mushroom soup plus milk to make 1 3/4 cups. Add 4 ounces mushrooms chopped.
 * Cheese: Add 2 cups of cheddar with egg. Good for hamburgers.
