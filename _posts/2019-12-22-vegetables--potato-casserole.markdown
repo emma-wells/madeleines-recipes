@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Potato casserole"
-date:   2019-12-22 12:05:17 +0000
+date:   2019-12-22 12:05:39 +0000
 categories: vegetables
 ---
 

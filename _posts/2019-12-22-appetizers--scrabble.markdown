@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Scrabble"
-date:   2019-12-22 12:05:26 +0000
-categories: appetizers
+date:   2019-12-22 12:05:48 +0000
+categories: appetizers from-grandma
 ---
 
 ## From Grandma

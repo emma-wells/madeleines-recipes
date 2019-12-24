@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Steamed pumpkin pudding"
-date:   2019-12-22 12:04:50 +0000
-categories: puddings
+date:   2019-12-22 12:05:12 +0000
+categories: puddings from-grandma
 ---
 
 ## From Grandma

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Pound cake"
-date:   2019-12-22 12:01:07 +0000
-categories: cake
+date:   2019-12-22 12:01:32 +0000
+categories: cake from-grandma
 ---
 
 ## From Grandma

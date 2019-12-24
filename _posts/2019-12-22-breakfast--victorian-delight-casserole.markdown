@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Victorian delight casserole"
-date:   2019-12-22 12:01:56 +0000
-categories: breakfast
+date:   2019-12-22 12:02:21 +0000
+categories: breakfast from-grandma
 ---
 
 ## From Grandma

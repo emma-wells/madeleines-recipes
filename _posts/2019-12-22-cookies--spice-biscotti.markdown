@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Spice biscotti"
-date:   2019-12-22 12:02:11 +0000
+date:   2019-12-22 12:02:36 +0000
 categories: cookies
 ---
 

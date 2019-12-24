@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "tea party loaf"
-date:   2019-12-22 12:01:22 +0000
-categories: cake
+date:   2019-12-22 12:01:47 +0000
+categories: cake from-grandma
 ---
 
 # Tea party loaf

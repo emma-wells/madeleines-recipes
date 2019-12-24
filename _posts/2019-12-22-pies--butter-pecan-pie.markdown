@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Butter pecan pie"
-date:   2019-12-22 12:00:42 +0000
+date:   2019-12-22 12:01:07 +0000
 categories: pies
 ---
 

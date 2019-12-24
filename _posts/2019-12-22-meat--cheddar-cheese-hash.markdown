@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Cheddar cheese hash"
-date:   2019-12-22 12:05:58 +0000
-categories: meat
+date:   2019-12-22 12:06:20 +0000
+categories: meat from-grandma
 ---
 
 ## From Grandma

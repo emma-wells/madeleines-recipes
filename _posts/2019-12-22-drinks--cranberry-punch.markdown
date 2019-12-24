@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Cranberry punch"
-date:   2019-12-22 12:06:23 +0000
-categories: drinks
+date:   2019-12-22 12:06:45 +0000
+categories: drinks from-grandma
 ---
 
 ## From Grandma

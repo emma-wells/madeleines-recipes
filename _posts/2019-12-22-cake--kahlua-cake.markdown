@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Kahlua cake"
-date:   2019-12-22 12:01:49 +0000
-categories: cake
+date:   2019-12-22 12:02:14 +0000
+categories: cake from-grandma
 ---
 
 ## From Grandma

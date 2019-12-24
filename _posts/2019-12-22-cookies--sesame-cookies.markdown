@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Sesame cookies"
-date:   2019-12-22 12:02:27 +0000
-categories: cookies
+date:   2019-12-22 12:02:52 +0000
+categories: cookies from-grandma
 ---
 
 ## From Grandma

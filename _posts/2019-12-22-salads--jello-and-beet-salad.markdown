@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Jello and beet salad"
-date:   2019-12-22 12:05:08 +0000
-categories: salads
+date:   2019-12-22 12:05:30 +0000
+categories: salads from-grandma
 ---
 
 ## From Grandma

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Stuffing"
-date:   2019-12-22 12:05:59 +0000
-categories: meat
+date:   2019-12-22 12:06:21 +0000
+categories: meat from-grandma
 ---
 
 ## From Grandma??

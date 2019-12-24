@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Corn bread"
-date:   2019-12-22 12:00:35 +0000
-categories: bread-and-biscuits
+date:   2019-12-22 12:00:59 +0000
+categories: bread-and-biscuits from-grandma
 ---
 
 ## From Grandma

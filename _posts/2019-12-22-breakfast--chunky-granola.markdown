@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Chunky granola"
-date:   2019-12-22 12:01:54 +0000
-categories: breakfast
+date:   2019-12-22 12:02:19 +0000
+categories: breakfast from-emma
 ---
 
 ## From Emma

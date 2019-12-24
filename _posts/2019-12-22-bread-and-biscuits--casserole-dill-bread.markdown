@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Casserole dill bread"
-date:   2019-12-22 12:00:34 +0000
-categories: bread-and-biscuits
+date:   2019-12-22 12:00:58 +0000
+categories: bread-and-biscuits from-mom
 ---
 
 ## From Mom

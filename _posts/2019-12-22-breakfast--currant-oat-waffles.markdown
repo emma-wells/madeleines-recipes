@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Currant-oat waffles"
-date:   2019-12-22 12:01:55 +0000
-categories: breakfast
+date:   2019-12-22 12:02:20 +0000
+categories: breakfast from-mom
 ---
 
 ## From Mom

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Shredded wheat prune bread"
-date:   2019-12-22 12:00:37 +0000
-categories: bread-and-biscuits
+date:   2019-12-22 12:01:02 +0000
+categories: bread-and-biscuits from-mom
 ---
 
 ## From Mom

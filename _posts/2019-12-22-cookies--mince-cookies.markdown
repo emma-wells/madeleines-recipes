@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Mince cookies"
-date:   2019-12-22 12:02:10 +0000
-categories: cookies
+date:   2019-12-22 12:02:35 +0000
+categories: cookies from-grandma
 ---
 
 ## From Grandma

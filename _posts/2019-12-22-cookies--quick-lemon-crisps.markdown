@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Quick lemon crisps"
-date:   2019-12-22 12:02:37 +0000
-categories: cookies
+date:   2019-12-22 12:03:02 +0000
+categories: cookies from-grandma
 ---
 
 ## From Grandma

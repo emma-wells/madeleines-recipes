@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Kentucky pecan pie"
-date:   2019-12-22 12:00:56 +0000
-categories: pies
+date:   2019-12-22 12:01:21 +0000
+categories: pies from-mom-and-dear-abby
 ---
 
 ## From Mom and Dear Abby

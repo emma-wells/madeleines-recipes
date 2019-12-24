@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Macaroni loaf"
-date:   2019-12-22 12:03:58 +0000
-categories: pasta-and-rice
+date:   2019-12-22 12:04:20 +0000
+categories: pasta-and-rice from-grandma
 ---
 
 ## From Grandma

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Old fashioned marble cake"
-date:   2019-12-22 12:01:24 +0000
-categories: cake
+date:   2019-12-22 12:01:49 +0000
+categories: cake from-mom-and-a-firemans-wife
 ---
 
 ## From Mom, and 'A Fireman's Wife'

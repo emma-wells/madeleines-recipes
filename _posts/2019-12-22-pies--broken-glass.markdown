@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Broken glass"
-date:   2019-12-22 12:00:48 +0000
-categories: pies
+date:   2019-12-22 12:01:13 +0000
+categories: pies from-mom-via-charlene-murphy
 ---
 
 ## From Mom via Charlene Murphy

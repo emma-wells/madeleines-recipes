@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Custard pie filling"
-date:   2019-12-22 12:00:50 +0000
-categories: pies
+date:   2019-12-22 12:01:15 +0000
+categories: pies from-bible-flowers-and-mom
 ---
 
 ## From Bible Flowers (and Mom)

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Tuna chop suey"
-date:   2019-12-22 12:02:53 +0000
-categories: fish
+date:   2019-12-22 12:03:18 +0000
+categories: fish from-grandma
 ---
 
 ## From Grandma

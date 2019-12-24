@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Baked corn and oysters"
-date:   2019-12-22 12:02:55 +0000
-categories: fish
+date:   2019-12-22 12:03:20 +0000
+categories: fish from-grandma
 ---
 
 ## From Grandma

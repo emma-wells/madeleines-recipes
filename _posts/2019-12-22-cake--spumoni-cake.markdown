@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Spumoni cake"
-date:   2019-12-22 12:01:11 +0000
-categories: cake
+date:   2019-12-22 12:01:36 +0000
+categories: cake from-grandma
 ---
 
 ## From Grandma

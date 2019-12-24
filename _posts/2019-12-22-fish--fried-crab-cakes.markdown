@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Fried crab cakes"
-date:   2019-12-22 12:03:04 +0000
-categories: fish
+date:   2019-12-22 12:03:29 +0000
+categories: fish from-grandma
 ---
 
 ## From Grandma

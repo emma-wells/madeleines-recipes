@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "English muffins"
-date:   2019-12-22 12:00:38 +0000
-categories: bread-and-biscuits
+date:   2019-12-22 12:01:03 +0000
+categories: bread-and-biscuits from-mom
 ---
 
 ## From Mom

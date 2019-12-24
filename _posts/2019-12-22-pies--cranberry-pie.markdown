@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Cranberry pie"
-date:   2019-12-22 12:01:05 +0000
-categories: pies
+date:   2019-12-22 12:01:30 +0000
+categories: pies from-grandma
 ---
 
 ## From Grandma

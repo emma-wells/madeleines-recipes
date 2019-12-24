@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Chex party mix"
-date:   2019-12-22 12:05:39 +0000
-categories: appetizers
+date:   2019-12-22 12:06:01 +0000
+categories: appetizers from-grandma
 ---
 
 ## From Grandma

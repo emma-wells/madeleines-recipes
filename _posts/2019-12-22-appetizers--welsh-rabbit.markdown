@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Welsh rabbit"
-date:   2019-12-22 12:05:36 +0000
-categories: appetizers
+date:   2019-12-22 12:05:58 +0000
+categories: appetizers from-grandma
 ---
 
 # Welsh Rabbit

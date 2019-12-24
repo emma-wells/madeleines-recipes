@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Scallops, Jimmy-style"
-date:   2019-12-22 12:02:57 +0000
-categories: fish
+date:   2019-12-22 12:03:22 +0000
+categories: fish from-mom-via-jimmys-harborside-restaurant
 ---
 
 ## From Mom, via Jimmy's Harborside Restaurant

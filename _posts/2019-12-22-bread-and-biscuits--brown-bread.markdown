@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Brown bread"
-date:   2019-12-22 12:00:33 +0000
-categories: bread-and-biscuits
+date:   2019-12-22 12:00:56 +0000
+categories: bread-and-biscuits from-mom-via-farm-journal
 ---
 
 ## From Mom via Farm Journal

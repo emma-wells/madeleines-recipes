@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Vegetable rice casserole"
-date:   2019-12-22 12:05:25 +0000
-categories: vegetables
+date:   2019-12-22 12:05:47 +0000
+categories: vegetables from-mom
 ---
 
 ## From Mom

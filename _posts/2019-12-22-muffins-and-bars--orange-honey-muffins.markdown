@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Orange-honey muffins"
-date:   2019-12-22 12:04:35 +0000
-categories: muffins-and-bars
+date:   2019-12-22 12:04:57 +0000
+categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma

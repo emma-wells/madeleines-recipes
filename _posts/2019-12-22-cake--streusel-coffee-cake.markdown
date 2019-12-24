@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Streusel coffee cake"
-date:   2019-12-22 12:01:30 +0000
-categories: cake
+date:   2019-12-22 12:01:55 +0000
+categories: cake from-grandma
 ---
 
 ## From Grandma

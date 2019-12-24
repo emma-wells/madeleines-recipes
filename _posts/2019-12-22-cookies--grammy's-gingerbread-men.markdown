@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Grammy's gingerbread men"
-date:   2019-12-22 12:02:13 +0000
-categories: cookies
+date:   2019-12-22 12:02:38 +0000
+categories: cookies from-grandma
 ---
 
 ## From Grandma

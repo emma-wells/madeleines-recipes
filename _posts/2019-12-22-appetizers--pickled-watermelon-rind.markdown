@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Pickled watermelon rind"
-date:   2019-12-22 12:05:27 +0000
-categories: appetizers
+date:   2019-12-22 12:05:49 +0000
+categories: appetizers from-mom-via-farmstead-magazine
 ---
 
 ## From Mom via Farmstead Magazine

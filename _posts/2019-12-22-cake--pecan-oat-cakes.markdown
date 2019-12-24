@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Pecan oat cupcakes"
-date:   2019-12-22 12:01:37 +0000
-categories: cake
+date:   2019-12-22 12:02:02 +0000
+categories: cake from-mom-via-chat
 ---
 
 # Pecan oat cakes

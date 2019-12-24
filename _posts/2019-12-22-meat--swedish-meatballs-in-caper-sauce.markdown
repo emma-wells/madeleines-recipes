@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Swedish meatballs in caper sauce"
-date:   2019-12-22 12:06:00 +0000
-categories: meat
+date:   2019-12-22 12:06:22 +0000
+categories: meat from-grandma
 ---
 
 ## From Grandma

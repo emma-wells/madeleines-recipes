@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Czechoslovakian bars"
-date:   2019-12-22 12:04:20 +0000
-categories: muffins-and-bars
+date:   2019-12-22 12:04:42 +0000
+categories: muffins-and-bars from-grandma
 ---
 
 ## From Grandma

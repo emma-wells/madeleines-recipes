@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Chicken La Fiore"
-date:   2019-12-22 12:00:05 +0000
+date:   2019-12-22 12:00:27 +0000
 categories: poultry
 ---
 

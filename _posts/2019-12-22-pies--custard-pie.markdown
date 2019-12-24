@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Custard pie"
-date:   2019-12-22 12:00:44 +0000
-categories: pies
+date:   2019-12-22 12:01:09 +0000
+categories: pies from-grandma
 ---
 
 ## From Grandma

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Apple and walnut cupcakes"
-date:   2019-12-22 12:01:51 +0000
-categories: cake
+date:   2019-12-22 12:02:16 +0000
+categories: cake from-mom
 ---
 
 ## From Mom

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Applesauce pudding"
-date:   2019-12-22 12:04:46 +0000
-categories: puddings
+date:   2019-12-22 12:05:08 +0000
+categories: puddings from-mom
 ---
 
 ## From Mom

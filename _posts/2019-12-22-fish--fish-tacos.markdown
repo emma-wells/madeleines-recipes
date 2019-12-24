@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Fish tacos"
-date:   2019-12-22 12:03:03 +0000
-categories: fish
+date:   2019-12-22 12:03:28 +0000
+categories: fish from-mom-june-2003
 ---
 
 ## From Mom, June 2003

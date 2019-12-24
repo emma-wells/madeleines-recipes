@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Corned beef stuffed baked potatoes"
-date:   2019-12-22 12:06:06 +0000
-categories: meat
+date:   2019-12-22 12:06:28 +0000
+categories: meat from-grandma
 ---
 
 ## From Grandma

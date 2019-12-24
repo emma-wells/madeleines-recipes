@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Drop cookies"
-date:   2019-12-22 12:02:39 +0000
-categories: cookies
+date:   2019-12-22 12:03:04 +0000
+categories: cookies from-grandma-via-irene-comeau
 ---
 
 ## From Grandma, via Irene Comeau

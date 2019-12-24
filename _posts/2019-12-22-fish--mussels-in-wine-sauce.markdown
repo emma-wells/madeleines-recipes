@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Mussels in wine sauce"
-date:   2019-12-22 12:03:06 +0000
+date:   2019-12-22 12:03:31 +0000
 categories: fish
 ---
 

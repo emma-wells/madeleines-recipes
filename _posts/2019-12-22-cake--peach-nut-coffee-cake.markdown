@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Peach nut coffee cake"
-date:   2019-12-22 12:01:33 +0000
-categories: cake
+date:   2019-12-22 12:01:58 +0000
+categories: cake from-grandma
 ---
 
 ## From Grandma

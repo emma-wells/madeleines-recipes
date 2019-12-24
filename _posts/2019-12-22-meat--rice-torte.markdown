@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Rice torte"
-date:   2019-12-22 12:06:15 +0000
-categories: meat
+date:   2019-12-22 12:06:37 +0000
+categories: meat from-mom-via-no-itality
 ---
 
 ## From Mom via No. Itality

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Torte II"
-date:   2019-12-22 12:01:50 +0000
-categories: cake
+date:   2019-12-22 12:02:15 +0000
+categories: cake from-grandma
 ---
 
 # Torte

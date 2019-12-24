@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Rhubarb whip"
-date:   2019-12-22 12:04:39 +0000
-categories: puddings
+date:   2019-12-22 12:05:01 +0000
+categories: puddings from-mom
 ---
 
 ## From Mom

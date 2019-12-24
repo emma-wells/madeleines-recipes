@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Scotchy peanut bars "
-date:   2019-12-22 12:04:23 +0000
-categories: muffins-and-bars
+date:   2019-12-22 12:04:45 +0000
+categories: muffins-and-bars from-grandma
 ---
 
 # Scotchy peanut bars

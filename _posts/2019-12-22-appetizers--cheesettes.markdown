@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Cheesettes"
-date:   2019-12-22 12:05:34 +0000
-categories: appetizers
+date:   2019-12-22 12:05:56 +0000
+categories: appetizers from-grandma
 ---
 
 ## From Grandma

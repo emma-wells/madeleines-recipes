@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Indian pudding"
-date:   2019-12-22 12:04:45 +0000
-categories: puddings
+date:   2019-12-22 12:05:07 +0000
+categories: puddings from-grandma
 ---
 
 ## From Grandma

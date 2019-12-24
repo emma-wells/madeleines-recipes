@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Corn relish"
-date:   2019-12-22 12:05:45 +0000
-categories: appetizers
+date:   2019-12-22 12:06:07 +0000
+categories: appetizers from-grandma
 ---
 
 ## From Grandma

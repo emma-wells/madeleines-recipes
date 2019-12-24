@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Pineapple rise"
-date:   2019-12-22 12:04:48 +0000
-categories: puddings
+date:   2019-12-22 12:05:10 +0000
+categories: puddings from-mom-via-charlie-ballo-yankee-prize-winner
 ---
 
 ## From Mom via Charlie Ballo (Yankee prize winner)

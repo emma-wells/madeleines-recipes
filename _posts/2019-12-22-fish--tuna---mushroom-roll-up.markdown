@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Tuna - mushroom roll-up"
-date:   2019-12-22 12:03:05 +0000
-categories: fish
+date:   2019-12-22 12:03:30 +0000
+categories: fish from-grandma
 ---
 
 ## From Grandma

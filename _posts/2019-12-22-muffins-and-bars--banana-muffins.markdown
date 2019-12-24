@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Banana muffins"
-date:   2019-12-22 12:04:30 +0000
+date:   2019-12-22 12:04:52 +0000
 categories: muffins-and-bars
 ---
 

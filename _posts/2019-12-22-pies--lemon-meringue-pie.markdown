@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Lemon meringue pie"
-date:   2019-12-22 12:01:00 +0000
-categories: pies
+date:   2019-12-22 12:01:25 +0000
+categories: pies from-grandma
 ---
 
 ## From Grandma

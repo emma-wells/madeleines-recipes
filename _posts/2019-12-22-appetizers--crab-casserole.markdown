@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Crab casserole"
-date:   2019-12-22 12:05:31 +0000
-categories: appetizers
+date:   2019-12-22 12:05:53 +0000
+categories: appetizers from-grandma
 ---
 
 ## From Grandma

@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Spinach balls"
-date:   2019-12-22 12:05:43 +0000
-categories: appetizers
+date:   2019-12-22 12:06:05 +0000
+categories: appetizers from-helen-kyslowsky
 ---
 
 ## From Helen Kyslowsky

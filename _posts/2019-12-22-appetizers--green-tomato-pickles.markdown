@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Green tomato pickles"
-date:   2019-12-22 12:05:54 +0000
-categories: appetizers
+date:   2019-12-22 12:06:16 +0000
+categories: appetizers from-mom-via-farmstead-magazine
 ---
 
 ## From Mom via Farmstead Magazine

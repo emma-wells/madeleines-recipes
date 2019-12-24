@@ -1,12 +1,13 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Flavored crackers"
-date:   2019-12-22 12:05:55 +0000
-categories: appetizers
+date:   2019-12-22 12:06:17 +0000
+categories: appetizers from-grandma
 ---
 
 # Flavoured crackers
 ##From Grandma
+### Ingredients
 * 12 ounces oyster crackers
 
 Mix 2/3 cup oil in a 13x9" pan. Then blend together:
@@ -18,3 +19,4 @@ Mix 2/3 cup oil in a 13x9" pan. Then blend together:
 
 
 Sprinkle through strainer over crackers. Heat oven to 300F and turn off. Leave pan in oven for 1/2 hour.
+

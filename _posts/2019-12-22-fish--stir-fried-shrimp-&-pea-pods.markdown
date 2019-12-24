@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Stir-fried shrimp & pea pods"
-date:   2019-12-22 12:02:52 +0000
-categories: fish
+date:   2019-12-22 12:03:17 +0000
+categories: fish from-grandma
 ---
 
 ## From Grandma

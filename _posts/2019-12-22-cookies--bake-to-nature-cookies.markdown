@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Bake-to-nature cookies"
-date:   2019-12-22 12:02:32 +0000
-categories: cookies
+date:   2019-12-22 12:02:57 +0000
+categories: cookies from-mom
 ---
 
 ## From Mom

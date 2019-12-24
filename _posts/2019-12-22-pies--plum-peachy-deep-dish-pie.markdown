@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: recipe_post
 title:  "Plum peachy deep dish pie"
-date:   2019-12-22 12:00:52 +0000
-categories: pies
+date:   2019-12-22 12:01:17 +0000
+categories: pies from-mom
 ---
 
 ## From Mom
