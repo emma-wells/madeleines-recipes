@@ -23,7 +23,7 @@ email: ekwells@gmail.com
 #description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "madeleines-recipes" # the subpath of your site, e.g. /blog
-url: "http://madeleinesrecipes.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://emma-wells.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
